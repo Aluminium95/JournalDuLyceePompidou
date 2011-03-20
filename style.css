@@ -13,18 +13,19 @@ div.volet{
 	border: 4px double black;
 	border-top: none;
 	border-radius:1.2em;
-	color: gray;
+	color: gray; /* Là encore … au choix mais ça permet de 
+	différentier le main des volets */
 }
 
 div.volet h1{
-	font-size:14px;
+	font-size:14px; /* Taille spécifique des titres des volets */
 }
 
-.contenu{
+.contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
 	font-size: 12px;
 	padding-left: 5px;
 }
-
+/* Conteneur flottant à gauche ( ≠ de .gauche qui est générique ) */
 #gauche{
 	float: left;
 	margin: none;
@@ -33,7 +34,7 @@ div.volet h1{
 #gauche .volet{
 	border-left: none;
 }
-
+/* Conteneur flottant à droite ( ≠ de .droite qui est générique ) */
 #droite{
 	float: right;
 	margin: none;
@@ -45,7 +46,7 @@ div.volet h1{
 
 /* Définition du central */
 .central{
-	margin: auto;
+	margin: auto; /* Centrage */
 }
 
 /* Définition de la bannière 
@@ -55,22 +56,23 @@ div.volet h1{
 	clear: both;
 	margin: auto;
 	margin-top: 10px;
-	column-count: 3;
-	-webkit-column-count: 3;
-	-moz-column-count: 3;
-	column-grap: 1em;
-	-webkit-column-gap: 1em;
-	-moz-column-gap: 1em;
+	/* Utilisation de CSS3 column */
+	column-count: 3; /* Générique */
+	-webkit-column-count: 3; /* Chrome, safari */
+	-moz-column-count: 3; /* Mozilla */
+	column-grap: 1em; /* Générique */
+	-webkit-column-gap: 1em; /* Chrome, safari */
+	-moz-column-gap: 1em; /* Mozilla */
 	width: 20cm;
 	padding: 0.25cm;
 	border: 1px solid black;
 	border-radius: 1em;
-	background: silver;
+	background: silver; /* Au choix :D */
 }
 #banniere span{
 	border: 1px solid black;
 	display: inline-block;
 	padding: 4px;
 	border-radius: 1em;
-	background: gray;
+	background: gray; /* Au choix … tant que c'est noir :D */
 }
