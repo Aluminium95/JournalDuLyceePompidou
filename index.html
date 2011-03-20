@@ -18,7 +18,8 @@
 		<!-- Insertion d'un volet ( avec un titre, non obligatoire ) -->
 		<div class='volet'>
 			<h1>Test de titre excessivement joli</h1>
-			<p class='contenu'>Le paragraphe associé à ce magnifique titre</p>
+			<p class='contenu'>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae purus vitae odio dignissim dictum a quis augue. Etiam libero nunc, mollis a aliquam sit amet, tempus hendrerit est. Aenean ultrices, ipsum eget ultricies scelerisque, urna massa elementum arcu, nec aliquet quam sem id felis. Duis quis dui lorem. Maecenas ut fringilla augue. Integer at ligula sit amet enim mollis volutpat vel nec neque. Donec mauris velit, elementum id cursus eu, luctus id odio. Curabitur cursus urna pretium lacus rutrum eu bibendum massa ultricies. Nulla tincidunt justo vel justo bibendum sit amet porttitor lacus rutrum. Donec non dapibus tellus.</p>
 		</div>
 		<br\>
 		<div class='volet'>
@@ -32,7 +33,12 @@
 		suffit  -->
 		<div class='volet'>
 			<h1>Test de titre excessivement joli</h1>
-			<p class='contenu'>Le paragraphe associé à ce magnifique titre</p>
+			<ul class='contenu'>
+				<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+				<li>In porttitor massa ligula, nec blandit orci.</li>
+				<li>Nulla lacinia dapibus lectus, sed molestie mauris egestas id.</li>
+				<li>Nulla ac elit nisi, id imperdiet felis.</li>
+			</ul>
 		</div>
 		<div class='volet'>
 			<h1>Test de titre excessivement joli</h1>
@@ -49,13 +55,14 @@
 	<!-- Partie centrale du journal, peut contenir n'importe quoi -->
 	<div class='central'>
 		<h1>Le scandale du FN</h1>
-		<div class='droite'>
-				<!-- un div class gauche, met un float gauche -->
-				<img src='Images/pompidou.png' style='width: 120px;'\>
-				<!-- La class Legende pour légender une image -->
-				<p class='legende'>Wah une image</p>
+		<p>
+		<div class='gauche'>
+			<!-- un div class gauche, met un float gauche -->
+			<img src='Images/pompidou.png' style='width: 120px;'\>
+			<!-- La class Legende pour légender une image -->
+			<div class='legende'>Wah une image</div>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae purus vitae odio dignissim dictum a quis augue. Etiam libero nunc, mollis a aliquam sit amet, tempus hendrerit est. Aenean ultrices, ipsum eget ultricies scelerisque, urna massa elementum arcu, nec aliquet quam sem id felis. Duis quis dui lorem. Maecenas ut fringilla augue. Integer at ligula sit amet enim mollis volutpat vel nec neque. Donec mauris velit, elementum id cursus eu, luctus id odio. Curabitur cursus urna pretium lacus rutrum eu bibendum massa ultricies. Nulla tincidunt justo vel justo bibendum sit amet porttitor lacus rutrum. Donec non dapibus tellus.
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae purus vitae odio dignissim dictum a quis augue. Etiam libero nunc, mollis a aliquam sit amet, tempus hendrerit est. Aenean ultrices, ipsum eget ultricies scelerisque, urna massa elementum arcu, nec aliquet quam sem id felis. Duis quis dui lorem. Maecenas ut fringilla augue. Integer at ligula sit amet enim mollis volutpat vel nec neque. Donec mauris velit, elementum id cursus eu, luctus id odio. Curabitur cursus urna pretium lacus rutrum eu bibendum massa ultricies. Nulla tincidunt justo vel justo bibendum sit amet porttitor lacus rutrum. Donec non dapibus tellus.
 		</p>
 		<h2>Une histoire louche</h2>
 		<p>
@@ -68,7 +75,7 @@
 	</div>
 	<!-- Bannière d'actualités -->
 	<div id='banniere'>
-		<div>
+		<div class='block'>
 			<h1>Guerre civile au liban</h1>
 			<p class='contenu'>
 				<span class='gauche'>
@@ -78,11 +85,11 @@
 				Suivez toute l'actualité de la guerre civile et de l'intervention étrangère contre Kadhafi.
 			</p>
 		</div>
-		<div>
+		<div class='block'>
 			<h1>News en direct !</h1>
 			<p class='contenu'>Who is Mr Madman ? La question que tout le monde se pose</p>
 		</div>
-		<div>
+		<div class='block'>
 			<h1>Encore un pack de cartes pour Halo Reach</h1>
 			<p class='contenu'>
 				<span class='gauche'>
