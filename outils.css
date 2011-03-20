@@ -1,11 +1,14 @@
 /* Gestion des flotants */
 .gauche{
 	float: left;
+	margin-right: 5px;
 }
 .droite{
 	float: right;
+	margin-left: 5px;
 }
 /* Gestion des images */
 p.legende{
 	font-size: 10px;
+	text-align: center;
 }

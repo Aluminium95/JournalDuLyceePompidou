@@ -1,5 +1,9 @@
 /* Head */
-
+#head{
+	width:21cm;
+	height: 113px;
+	background: url('Images/pompidou.png') center center no-repeat;
+}
 
 
 /* Définition des volets */
@@ -10,8 +14,6 @@ div.volet{
 	border-top: none;
 	border-radius:1.2em;
 	color: gray;
-	padding-top:10px;
-	margin-bottom: -10px;
 }
 
 div.volet h1{
@@ -25,6 +27,7 @@ div.volet h1{
 
 #gauche{
 	float: left;
+	margin: none;
 	margin-right: 0.5cm;
 }
 #gauche .volet{
@@ -33,6 +36,7 @@ div.volet h1{
 
 #droite{
 	float: right;
+	margin: none;
 	margin-left: 0.5cm;
 }
 #droite .volet{
@@ -50,7 +54,12 @@ div.volet h1{
 #banniere{
 	clear: both;
 	margin: auto;
+	margin-top: 10px;
+	column-count: 3;
 	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-grap: 1em;
+	-webkit-column-gap: 1em;
 	-moz-column-gap: 1em;
 	width: 20cm;
 	padding: 0.25cm;

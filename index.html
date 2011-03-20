@@ -10,9 +10,12 @@
 	<link rel='stylesheet' type='text/css' href='outils.css'\>
 </head>
 <body>
-	<div id='header'>
+	<!-- L'en tête contenant l'image, la date, etc … -->
+	<div id='head'>
 	</div>
+	<!-- La partie de gauche ( peut contenir n'importe quoi ) -->
 	<div id='gauche'>
+		<!-- Insertion d'un volet ( avec un titre, non obligatoire ) -->
 		<div class='volet'>
 			<h1>Test de titre excessivement joli</h1>
 			<p class='contenu'>Le paragraphe associé à ce magnifique titre</p>
@@ -23,7 +26,10 @@
 			<p class='contenu'>Le paragraphe associé à ce magnifique titre</p>
 		</div>
 	</div>
+	<!-- La partie droite du journal -->
 	<div id='droite'>
+		<!-- La déclaration d'un volet est la même, le mettre dans droite 
+		suffit  -->
 		<div class='volet'>
 			<h1>Test de titre excessivement joli</h1>
 			<p class='contenu'>Le paragraphe associé à ce magnifique titre</p>
@@ -33,24 +39,31 @@
 			<p class='contenu'>Le paragraphe associé à ce magnifique titre</p>
 		</div>
 	</div>
+	<!-- Partie centrale du journal, peut contenir n'importe quoi -->
 	<div class='central'>
 		<h1>Le scandale du FN</h1>
 		<h2>Une histoire louche</h2>
-		<p>Il semblerait que JM le Pen ait malencontreusement tué avec sa mercedes
-		noire un arabe sur la route de vandargues</p>
-		<h2>Les policiers enquètent</h2>
-		<p>Dans ce genre de meurtre, il faut peu 
-			<div class='gauche'>
-				<img src='dessin.svg' style='width: 100px;'\>
+		<p>
+			<div class='droite'>
+				<!-- un div class gauche, met un float gauche -->
+				<img src='Images/pompidou.png' style='width: 120px;'\>
+				<!-- La class Legende pour légender une image -->
 				<p class='legende'>Wah une image</p>
 			</div>
+		Il semblerait que JM le Pen ait malencontreusement tué avec sa mercedes
+		noire un arabe sur la route de vandargues
+		</p>
+		<h2>Les policiers enquètent</h2>
+		<p>Dans ce genre de meurtre, il faut peu 
 		de temps pour arrêter le responsable</p>
 	</div>
+	<!-- Bannière d'actualités -->
 	<div id='banniere'>
 		<span>Des nouvelles exclusives de Obama ! Il est revenu d'entre les morts !</span>
 		<span>Who is Mr Madman ? La question que tout le monde se pose</span>
 		<span>Des nouvelles exclusives de Obama ! Il est revenu d'entre les morts !</span>
 	</div>
+	<!-- Pied de page -->
 	<div id='foot'></div>
 </body>
 </html>
