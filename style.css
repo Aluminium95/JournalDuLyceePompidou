@@ -8,7 +8,7 @@
 
 /* Définition des volets */
 div.volet{
-	width:100%;;
+	width:100%;
 	position: float;
 	border: 4px double black;
 	border-top: none;
@@ -19,11 +19,11 @@ div.volet{
 }
 
 div.volet h1{
-	font-size:14px; /* Taille spécifique des titres des volets */
+	font-size:16px; /* Taille spécifique des titres des volets */
 }
 
 .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
-	font-size: 12px;
+	/*font-size: 12px;*/
 }
 /* Conteneur flottant à gauche ( ≠ de .gauche qui est générique ) */
 #gauche{
@@ -54,6 +54,9 @@ div.volet h1{
 /* Définition de la bannière 
  * Une bannière n'a strictement aucune utilité dans le cadre d'un
  * journal … */
+#banniere h1{
+	font-size: 14px;
+}
 #banniere{
 	clear: both;
 	margin: auto;
@@ -67,15 +70,15 @@ div.volet h1{
 	-moz-column-gap: 1em; /* Mozilla */
 	width: 20cm;
 	padding: 0.25cm;
-	border: 1px solid black;
-	border-radius: 1em;
-	background: silver; /* Au choix :D */
+	border: 4px double black;
+	border-bottom: none;
+	border-radius: 2em;
 }
-#banniere span{
-	border: 1px solid black;
+#banniere div{
+	border: 3px double black;
+	border-top: none;
 	display: inline-block;
-	height: 100%;
+	min-height: 2cm;
 	padding: 4px;
 	border-radius: 1em;
-	background: gray; /* Au choix … tant que c'est noir :D */
 }
