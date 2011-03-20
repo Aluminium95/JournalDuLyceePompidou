@@ -1,0 +1,67 @@
+/* Head */
+
+
+
+/* Définition des volets */
+div.volet{
+	width: 5cm;
+	position: float;
+	border: 4px double black;
+	border-top: none;
+	border-radius:1.2em;
+	color: gray;
+	padding-top:10px;
+	margin-bottom: -10px;
+}
+
+div.volet h1{
+	font-size:14px;
+}
+
+.contenu{
+	font-size: 12px;
+	padding-left: 5px;
+}
+
+#gauche{
+	float: left;
+	margin-right: 0.5cm;
+}
+#gauche .volet{
+	border-left: none;
+}
+
+#droite{
+	float: right;
+	margin-left: 0.5cm;
+}
+#droite .volet{
+	border-right: none;
+}
+
+/* Définition du central */
+.central{
+	margin: auto;
+}
+
+/* Définition de la bannière 
+ * Une bannière n'a strictement aucune utilité dans le cadre d'un
+ * journal … */
+#banniere{
+	clear: both;
+	margin: auto;
+	-webkit-column-count: 3;
+	-moz-column-gap: 1em;
+	width: 20cm;
+	padding: 0.25cm;
+	border: 1px solid black;
+	border-radius: 1em;
+	background: silver;
+}
+#banniere span{
+	border: 1px solid black;
+	display: inline-block;
+	padding: 4px;
+	border-radius: 1em;
+	background: gray;
+}

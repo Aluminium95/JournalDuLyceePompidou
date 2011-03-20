@@ -1,0 +1,16 @@
+/* Redéfinition des titres, ou styles 
+ * des paragraphes etc … */
+
+p{
+	font-size: 12px;
+}
+h1{
+	font-size: 18px;
+	text-align: center;
+}
+h2{
+	font-size: 16px;
+}
+h3{
+	font-size: 14px;
+}	
