@@ -51,12 +51,14 @@ div.volet h1{
 .central{
 	margin: auto; /* Centrage */
 	/* Utilisation de CSS3 column */
-	column-count: 2; /* Générique */
-	-webkit-column-count: 2; /* Chrome, safari */
-	-moz-column-count: 2; /* Mozilla */
-	column-grap: 1em; /* Générique */
-	-webkit-column-gap: 1em; /* Chrome, safari */
-	-moz-column-gap: 1em; /* Mozilla */
+	/*
+	column-count: 2; 
+	-webkit-column-count: 2;
+	-moz-column-count: 2; 
+	column-grap: 1em; 
+	-webkit-column-gap: 1em; 
+	-moz-column-gap: 1em; 
+	*/
 }
 
 /* Définition de la bannière 
