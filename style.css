@@ -68,7 +68,6 @@ div.volet h1{
 	font-size: 14px;
 }
 #banniere{
-	clear: both;
 	margin: auto;
 	margin-top: 10px;
 	/* Utilisation de CSS3 column */
@@ -81,15 +80,17 @@ div.volet h1{
 	-moz-column-gap: 1em; 
 	*/
 	padding: 0.25cm;
-	border: 2px solid black;
+	/*border: 2px solid black;*/
 	border-bottom: none;
 	border-radius: 2em;
 }
 #banniere div.block{
-	bottom: 0px;
-	float: left;
+	max-width: 48%;
 	margin: auto;
-	width: 45%;
+	display: inline-block;
+	margin: 3px;
+	float: left;
+	height: 5cm;
 	padding: 4px;
-	background: purple;
+	border: 1px solid black;
 }
