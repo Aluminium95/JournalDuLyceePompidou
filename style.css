@@ -10,7 +10,7 @@
 div.volet{
 	width:100%;
 	position: float;
-	border: 4px double black;
+	border: 2px solid black;
 	border-top: none;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -72,23 +72,24 @@ div.volet h1{
 	margin: auto;
 	margin-top: 10px;
 	/* Utilisation de CSS3 column */
-	column-count: 3; /* Générique */
-	-webkit-column-count: 3; /* Chrome, safari */
-	-moz-column-count: 3; /* Mozilla */
-	column-grap: 1em; /* Générique */
-	-webkit-column-gap: 1em; /* Chrome, safari */
-	-moz-column-gap: 1em; /* Mozilla */
-	width: 20cm;
+	/*
+	column-count: 3; 
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-grap: 1em;
+	-webkit-column-gap: 1em;
+	-moz-column-gap: 1em; 
+	*/
 	padding: 0.25cm;
-	border: 4px double black;
+	border: 2px solid black;
 	border-bottom: none;
 	border-radius: 2em;
 }
 #banniere div.block{
-	border: 3px double black;
-	border-top: none;
-	display: inline-block;
-	min-height: 2cm;
+	bottom: 0px;
+	float: left;
+	margin: auto;
+	width: 45%;
 	padding: 4px;
-	border-radius: 1em;
+	background: purple;
 }
