@@ -1,6 +1,11 @@
+body{
+	width: 210mm;
+	height: 297mm;
+}
+
 /* Head */
 #head{
-	width:21cm;
+	width:210mm;
 	height: 113px;
 	background: url('Images/pompidou.png') center center no-repeat;
 }
@@ -8,7 +13,15 @@
 
 /* Définition des volets */
 div.volet{
-	background: url('Images/teteVolet.png') repeat-x;
+	/*background: url('Images/teteVolet.png') no-repeat center top;*/
+	border-top:1px solid black;
+	padding-top:1px;
+	color: black; /* Là encore … au choix mais ça permet de 
+	différentier le main des volets */
+}
+div.gvolet{
+	/*background: url('Images/teteV.png') no-repeat bottom center;*/
+	border-top: 1px solid black;
 	padding-top:1px;
 	color: black; /* Là encore … au choix mais ça permet de 
 	différentier le main des volets */
@@ -17,10 +30,19 @@ div.volet{
 div.volet h1{
 	font-size:16px; /* Taille spécifique des titres des volets */
 }
+div.gvolet h1{
+	font-size:16px; /* Taille spécifique des titres des volets */
+}
 
-.contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
+.volet .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
 	/*font-size: 12px;*/
-	background: url('Images/piedVolet.png') repeat-x bottom;
+	/*background: url('Images/piedVolet.png') no-repeat bottom center;*/
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+.gvolet .contenu{
+	/*background: url('Images/piedGV.png') no-repeat bottom center;*/
+	border-bottom: 1px solid black;
 	padding-bottom: 10px;
 }
 /* Définition du central */
@@ -39,4 +61,7 @@ div.volet h1{
 /* Définition du footer */
 #foot{
 	clear: both;
+	text-align: center;
+	position: fixed;
+	bottom:0px;
 }
