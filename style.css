@@ -8,14 +8,9 @@
 
 /* Définition des volets */
 div.volet{
-	width:100%;
-	position: float;
-	border: 2px solid black;
-	border-top: none;
-	padding-left: 5px;
-	padding-right: 5px;
-	border-radius:1.2em;
-	color: gray; /* Là encore … au choix mais ça permet de 
+	background: url('Images/teteVolet.png') repeat-x;
+	padding-top:1px;
+	color: black; /* Là encore … au choix mais ça permet de 
 	différentier le main des volets */
 }
 
@@ -25,28 +20,9 @@ div.volet h1{
 
 .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
 	/*font-size: 12px;*/
+	background: url('Images/piedVolet.png') repeat-x bottom;
+	padding-bottom: 10px;
 }
-/* Conteneur flottant à gauche ( ≠ de .gauche qui est générique ) */
-#gauche{
-	float: left;
-	margin: none;
-	margin-right: 0.5cm;
-	width: 5cm;
-}
-#gauche .volet{
-	border-left: none;
-}
-/* Conteneur flottant à droite ( ≠ de .droite qui est générique ) */
-#droite{
-	width: 7cm;
-	float: right;
-	margin: none;
-	margin-left: 0.5cm;
-}
-#droite .volet{
-	border-right: none;
-}
-
 /* Définition du central */
 .central{
 	margin: auto; /* Centrage */
@@ -60,37 +36,7 @@ div.volet h1{
 	-moz-column-gap: 1em; 
 	*/
 }
-
-/* Définition de la bannière 
- * Une bannière n'a strictement aucune utilité dans le cadre d'un
- * journal … */
-#banniere h1{
-	font-size: 14px;
-}
-#banniere{
-	margin: auto;
-	margin-top: 10px;
-	/* Utilisation de CSS3 column */
-	/*
-	column-count: 3; 
-	-webkit-column-count: 3;
-	-moz-column-count: 3;
-	column-grap: 1em;
-	-webkit-column-gap: 1em;
-	-moz-column-gap: 1em; 
-	*/
-	padding: 0.25cm;
-	/*border: 2px solid black;*/
-	border-bottom: none;
-	border-radius: 2em;
-}
-#banniere div.block{
-	max-width: 48%;
-	margin: auto;
-	display: inline-block;
-	margin: 3px;
-	float: left;
-	height: 5cm;
-	padding: 4px;
-	border: 1px solid black;
+/* Définition du footer */
+#foot{
+	clear: both;
 }
