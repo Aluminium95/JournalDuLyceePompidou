@@ -1,8 +1,7 @@
-#body{
+.page{
 	width: 210mm;
 	height: 297mm;
 	padding: 10px;
-	background: white;
 	margin: 0px;
 }
 body{
