@@ -7,14 +7,18 @@ p{
 	text-align:justify;
 }
 h1{
-	/*font-size: 18px;*/
+	font-size: 30px;
 	text-align: center;
 }
 /*
 h2{
 	font-size: 16px;
 }
-h3{
-	font-size: 14px;
-}	
 */
+h3{
+	text-align: center;
+}	
+
+ul{
+	list-style-image: url('Images/list.png');
+}
