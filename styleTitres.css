@@ -1,5 +1,9 @@
 /* Redéfinition des titres, ou styles 
  * des paragraphes etc … */
+@font-face {
+	font-family: OldLondon;
+	src: url('Fonts/OldLondon.ttf');
+}
 
 p{
 	/*font-size: 12px;*/
@@ -9,6 +13,7 @@ p{
 h1{
 	font-size: 30px;
 	text-align: center;
+	/*font-family: OldLondon;*/
 }
 /*
 h2{
