@@ -1,10 +1,17 @@
 /* Redéfinition des titres, ou styles 
  * des paragraphes etc … */
 @font-face {
-	font-family: OldLondon;
+	font-family: Lond;
 	src: url('Fonts/OldLondon.ttf');
 }
-
+@font-face {
+	font-family: DejaVuSans;
+	src: url('Fonts/DejaVuSans.ttf');
+}
+body{
+	font-family: DejaVuSans;
+	font-size: 14px;
+}
 p{
 	/*font-size: 12px;*/
 	text-indent:20px;
@@ -13,15 +20,16 @@ p{
 h1{
 	font-size: 30px;
 	text-align: center;
-	/*font-family: OldLondon;*/
+	font-family: retour à la fonte par défaut;
 }
-/*
+
 h2{
-	font-size: 16px;
+	font-family: retour à la fonte par défaut;
 }
-*/
+
 h3{
 	text-align: center;
+	font-family: retour à la fonte par défaut;
 }	
 
 ul{
