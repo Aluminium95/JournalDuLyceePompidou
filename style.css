@@ -5,7 +5,6 @@
 	margin: 0px;
 }
 body{
-	/*background: red;*/
 	padding: 0px;
 	margin: 0px;
 }
@@ -17,53 +16,27 @@ body{
 	background: url('Images/pompidou.png') center center no-repeat;
 }
 
-
-/* Définition des volets */
-div.volet{
-	background: url('Images/teteVolet.png') no-repeat center top;
-	/*border-top:1px solid black;*/
-	padding-top:1px;
-	color: black; /* Là encore … au choix mais ça permet de 
-	différentier le main des volets */
+#infoTirage{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 0px;
+	text-align: center;
 }
-div.gvolet{
-	background: url('Images/teteGV.png') no-repeat;
-	/*border-top: 1px solid black;*/
-	padding-top:1px;
-	color: black; /* Là encore … au choix mais ça permet de 
-	différentier le main des volets */
+#infoTirage li{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
 }
 
-div.volet h1{
-	font-size:16px; /* Taille spécifique des titres des volets */
-}
-div.gvolet h1{
-	font-size:16px; /* Taille spécifique des titres des volets */
-}
 
-.volet .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
-	/*font-size: 12px;*/
-	/*background: url('Images/piedVolet.png') no-repeat bottom center;
-	border-bottom: 1px solid black;*/
-	padding-bottom: 10px;
-}
-.gvolet .contenu{
-	/*background: url('Images/piedGV.png') no-repeat bottom center;
-	border-bottom: 1px solid black;*/
-	padding-bottom: 10px;
-}
-/* Définition du central */
-.central{
-	margin: auto; /* Centrage */
-	/* Utilisation de CSS3 column */
-	/*
-	column-count: 2; 
+#listeArticles .contenu{
 	-webkit-column-count: 2;
-	-moz-column-count: 2; 
-	column-grap: 1em; 
-	-webkit-column-gap: 1em; 
-	-moz-column-gap: 1em; 
-	*/
+	-webkit-column-rule: 1px solid black;
+	margin: 0px;
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 /* Définition du footer */
 div#foot{
