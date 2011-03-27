@@ -8,6 +8,10 @@
 	font-family: DejaVuSans;
 	src: url('Fonts/DejaVuSans.ttf');
 }
+@font-face {
+	font-family: quadranta;
+	src: url('Fonts/OldLondon.ttf');
+}
 body{
 	font-family: DejaVuSans;
 	font-size: 14px;
@@ -18,18 +22,20 @@ p{
 	text-align:justify;
 }
 h1{
-	font-size: 30px;
+	font-size: 4em;
 	text-align: center;
-	font-family: retour à la fonte par défaut;
+	font-family: quadranta;
 }
 
 h2{
-	font-family: retour à la fonte par défaut;
+	font-size: 2em;
+	font-family: quadranta
 }
 
 h3{
+	font-size: 2em;
 	text-align: center;
-	font-family: retour à la fonte par défaut;
+	font-family: quadranta;
 }	
 
 ul{
