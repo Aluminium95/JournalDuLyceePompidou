@@ -10,7 +10,7 @@
 }
 @font-face {
 	font-family: quadranta;
-	src: url('Fonts/OldLondon.ttf');
+	src: url('Fonts/Auctoritas Regular.ttf');
 }
 body{
 	font-family: DejaVuSans;
@@ -22,7 +22,7 @@ p{
 	text-align:justify;
 }
 h1{
-	font-size: 4em;
+	font-size: 3em;
 	text-align: center;
 	font-family: quadranta;
 }
@@ -31,7 +31,19 @@ h2{
 	font-size: 2em;
 	font-family: quadranta
 }
-
+nav.gvolet h1{
+	font-size:2em; /* Taille spécifique des titres des volets */
+	margin-top: 2px;
+	margin-bottom: 10px;
+}
+nav.volet h1{
+	font-size: 1.3em;
+}
+nav.gvolet h2:first-letter{
+	padding-left: 30px;
+	background-image: url('Images/title.png');
+	background-repeat: no-repeat;
+}
 h3{
 	font-size: 2em;
 	text-align: center;
@@ -40,4 +52,14 @@ h3{
 
 ul{
 	list-style-image: url('Images/list.png');
+}
+
+/* Head */
+header{
+	width:210mm;
+	height: 113px;
+	font-size: 100px;
+	font-family: Lond;
+	text-align: center;
+	background: url('Images/fondHeader.png') center center no-repeat;
 }

@@ -14,37 +14,22 @@
 }
 
 /* Définition des volets */
-div.volet{
+nav{
+	padding-top:1px;
+	border-top: 4px double #d2d2d2;
+}
+nav.volet{
 	background: url('Images/teteVolet.png') no-repeat center top;
-	/*border-top:1px solid black;*/
-	padding-top:1px;
-	color: gray; /* Là encore … au choix mais ça permet de 
-	différentier le main des volets */
+	border-bottom: 3px double #d2d2d2;
 }
-div.gvolet{
+nav.gvolet{
 	background: url('Images/teteGV.png') no-repeat;
-	/*border-top: 1px solid black;*/
-	padding-top:1px;
-	color: gray; /* Là encore … au choix mais ça permet de 
-	différentier le main des volets */
 }
 
-div.volet h1{
-	font-size:16px; /* Taille spécifique des titres des volets */
-}
-div.gvolet h1{
-	font-size:16px; /* Taille spécifique des titres des volets */
-}
-
-.volet .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
+nav .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
 	/*background: url('Images/piedVolet.png') no-repeat bottom center;
 	border-bottom: 1px solid black;
 	* Optionnel si on veut fermer le volet avec une image de fond 
 	* */
-	padding-bottom: 10px;
-}
-.gvolet .contenu{
-	/*background: url('Images/piedGV.png') no-repeat bottom center;
-	border-bottom: 1px solid black;*/
 	padding-bottom: 10px;
 }

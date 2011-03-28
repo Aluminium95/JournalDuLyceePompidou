@@ -10,10 +10,11 @@
 	<link rel='stylesheet' type='text/css' href='outils.css'\>
 </head>
 <body>
-	<div class='page'>
+	<section>
 		<!-- L'en tête contenant l'image, la date, etc … -->
-		<div id='head'>
-		</div>
+		<header>
+			Le Georges
+		</header>
 		<ul id='infoTirage'>
 			<li style='float: left; padding-left: 20px;'>27 mars 2011</li>
 			<li>N°-1</li>
@@ -25,37 +26,43 @@
 			<img src='http://chribactu.20minutes-blogs.fr/media/02/00/524871032.2.jpg' style='width: 100%;'/>
 			<p class='legende'>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</p>
 		</div>
-		<h2>Le fn est une puissance montante dans la france métropolitaine, qui vote FN ? À qui cela profite-t-il ?</h2>
-		<p>Maecenas lacinia ornare enim, id euismod sem tincidunt sit amet. Etiam nec mauris sem, pharetra vehicula neque. Mauris pretium condimentum ligula, in bibendum sapien interdum ac. Morbi aliquam velit ante, eget consectetur purus. Aenean in lorem eu neque volutpat pretium a ac est. Duis pellentesque turpis sed leo eleifend at porta quam luctus. Nunc feugiat condimentum ipsum quis bibendum. Cras tristique ultricies purus, nec congue felis cursus et. Vivamus tincidunt libero ut dolor luctus eget faucibus ante ornare. Maecenas eu congue enim. Vestibulum porttitor gravida velit, nec ornare sapien sollicitudin suscipit. Duis eu nulla urna. Vestibulum rutrum, eros eget blandit ornare, odio arcu porttitor tellus, et laoreet tortor ante at augue. Praesent ac venenatis libero. Donec posuere diam quis orci rutrum vel eleifend est consectetur. Integer accumsan urna id lectus iaculis imperdiet. Etiam accumsan dolor eget mi rhoncus ac hendrerit felis rhoncus. Cras neque lacus, consequat a pellentesque eu, pulvinar vitae odio. </p>
+		<article>
+			<h2>Le fn est une puissance montante dans la france métropolitaine, qui vote FN ? À qui cela profite-t-il ?</h2>
+			<p>Maecenas lacinia ornare enim, id euismod sem tincidunt sit amet. Etiam nec mauris sem, pharetra vehicula neque. Mauris pretium condimentum ligula, in bibendum sapien interdum ac. Morbi aliquam velit ante, eget consectetur purus. Aenean in lorem eu neque volutpat pretium a ac est. Duis pellentesque turpis sed leo eleifend at porta quam luctus. Nunc feugiat condimentum ipsum quis bibendum. Cras tristique ultricies purus, nec congue felis cursus et. Vivamus tincidunt libero ut dolor luctus eget faucibus ante ornare. Maecenas eu congue enim. Vestibulum porttitor gravida velit, nec ornare sapien sollicitudin suscipit. Duis eu nulla urna. Vestibulum rutrum, eros eget blandit ornare, odio arcu porttitor tellus, et laoreet tortor ante at augue. Praesent ac venenatis libero. Donec posuere diam quis orci rutrum vel eleifend est consectetur. Integer accumsan urna id lectus iaculis imperdiet. Etiam accumsan dolor eget mi rhoncus ac hendrerit felis rhoncus. Cras neque lacus, consequat a pellentesque eu, pulvinar vitae odio. </p>
+		</article>
 		<!-- Bloc informatif sur le contenu du journal -->
 		<div style='clear: both'></div>
-		<div class='gvolet' id='listeArticles'>
+		<nav class='gvolet' id='listeArticles'>
 			<h1>Articles</h1>
 			<div class='contenu'>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
+				<article>
+					<h2>Un super titre d'article !</h2>
+					<p>C'est une superbe occasion de raconter sa vie !</p>
+				</article>
+				<article>
+					<h2>Un super titre d'article !</h2>
+					<p>C'est une superbe occasion de raconter sa vie !</p>
+				</article>
+				<article>
+					<h2>Un super titre d'article !</h2>
+					<p>C'est une superbe occasion de raconter sa vie !</p>
+				</article>
+				<article>
+					<h2>Un super titre d'article !</h2>
+					<p>C'est une superbe occasion de raconter sa vie !</p>
+				</article>
 			</div>
-		</div>
+		</nav>
 		<!-- Pied de page -->
 		<div style='clear: both'></div>
-		<div id='foot'>Pour nous contacter 060625451</div>
-	</div>
+		<footer>Pour nous contacter 060625451</footer>
+	</section>
 	<!-- Page 2 -->
-	<div class='page'>
+	<section>
 		<!-- La partie de droite ( peut contenir n'importe quoi ) -->
 		<div class='droite'>
 			<!-- Insertion d'un volet ( avec un titre, non obligatoire ) -->
-			<div class='volet' style='width: 6cm;'>
+			<nav class='volet' style='width: 6cm;'>
 				<h1>Phrases « mythiques »</h1>
 				<ul class='contenu'>
 					<li>« Open office est un pare-feux », christine albanels</li>
@@ -66,28 +73,30 @@
 					<li>Phasellus blandit tortor eu diam cursus ut dapibus elit placerat.</li>
 					<li>Praesent dictum mauris nec tortor sollicitudin non facilisis nulla scelerisque.</li>
 				</ul>
-			</div>
+			</nav>
 		</div>
 		<!-- Titre + photo + legende pour l'article principal -->
-		<h1>L'essor du FN en france</h1>
-		<p style='-webkit-column-count:2; -moz-column-count: 2;' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec leo elementum placerat. Aenean tempus tristique lorem, non commodo velit sodales et. Cras adipiscing adipiscing convallis. Aliquam vel justo velit, eu dignissim justo. In hac habitasse platea dictumst. Sed nec lobortis dolor. Ut metus risus, molestie vulputate tristique eu, molestie vel tortor. Donec eleifend nulla quis metus convallis sagittis. Nulla ultricies, risus quis hendrerit egestas, neque magna hendrerit nibh, sed aliquet lacus lacus et orci. Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
-		<h2>Sous titre</h2>
-		<p>Maecenas lacinia ornare enim, id euismod sem tincidunt sit amet. Etiam nec mauris sem, pharetra vehicula neque. Mauris pretium condimentum ligula, in bibendum sapien interdum ac. Morbi aliquam velit ante, eget consectetur purus. Aenean in lorem eu neque volutpat pretium a ac est. Duis pellentesque turpis sed leo eleifend at porta quam luctus. Nunc feugiat condimentum ipsum quis bibendum. Cras tristique ultricies purus, nec congue felis cursus et. Vivamus tincidunt libero ut dolor luctus eget faucibus ante ornare. Maecenas eu congue enim. Vestibulum porttitor gravida velit, nec ornare sapien sollicitudin suscipit. Duis eu nulla urna. Vestibulum rutrum, eros eget blandit ornare, odio arcu porttitor tellus, et laoreet tortor ante at augue. Praesent ac venenatis libero. Donec posuere diam quis orci rutrum vel eleifend est consectetur. Integer accumsan urna id lectus iaculis imperdiet. Etiam accumsan dolor eget mi rhoncus ac hendrerit felis rhoncus. Cras neque lacus, consequat a pellentesque eu, pulvinar vitae odio. </p>
+		<article>
+			<h1>L'essor du FN en france</h1>
+			<p style='-webkit-column-count:2; -moz-column-count: 2;' >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec leo elementum placerat. Aenean tempus tristique lorem, non commodo velit sodales et. Cras adipiscing adipiscing convallis. Aliquam vel justo velit, eu dignissim justo. In hac habitasse platea dictumst. Sed nec lobortis dolor. Ut metus risus, molestie vulputate tristique eu, molestie vel tortor. Donec eleifend nulla quis metus convallis sagittis. Nulla ultricies, risus quis hendrerit egestas, neque magna hendrerit nibh, sed aliquet lacus lacus et orci. Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
+			<h2>Sous titre</h2>
+			<p>Maecenas lacinia ornare enim, id euismod sem tincidunt sit amet. Etiam nec mauris sem, pharetra vehicula neque. Mauris pretium condimentum ligula, in bibendum sapien interdum ac. Morbi aliquam velit ante, eget consectetur purus. Aenean in lorem eu neque volutpat pretium a ac est. Duis pellentesque turpis sed leo eleifend at porta quam luctus. Nunc feugiat condimentum ipsum quis bibendum. Cras tristique ultricies purus, nec congue felis cursus et. Vivamus tincidunt libero ut dolor luctus eget faucibus ante ornare. Maecenas eu congue enim. Vestibulum porttitor gravida velit, nec ornare sapien sollicitudin suscipit. Duis eu nulla urna. Vestibulum rutrum, eros eget blandit ornare, odio arcu porttitor tellus, et laoreet tortor ante at augue. Praesent ac venenatis libero. Donec posuere diam quis orci rutrum vel eleifend est consectetur. Integer accumsan urna id lectus iaculis imperdiet. Etiam accumsan dolor eget mi rhoncus ac hendrerit felis rhoncus. Cras neque lacus, consequat a pellentesque eu, pulvinar vitae odio. </p>
+		</article>
 		<div style='clear: both'></div>
-	</div>
+	</section>
 	<!-- Page3 -->
-	<div class='page'></div>
+	<section></section>
 	<!-- Page4 -->
-	<div class='page'>
+	<section>
 		<!-- Annonces Actu Pub -->
 		<div class='gauche'>
-			<div class='gvolet' style='width:10.3cm;' >
+			<nav class='gvolet' style='width:100mm;' >
 				<h1>Publicité</h1>
-				<img src='Images/printer.png' style='width: 90mm'/>
-			</div>
+				<img src='Images/printer.png' style='width: 100%'/>
+			</nav>
 		</div>
 		<div class='droite'>
-			<div class='gvolet' style='width: 10.3cm;'>
+			<nav class='gvolet' style='width: 100mm;'>
 				<h1>Annonces</h1>
 				<ul class='contenu'>
 					<li>Recherche journaliste pour la rubrique des Potins de St Georges, s'adresser au 06654891</li>
@@ -99,8 +108,8 @@
 					<li>Lorem ipsum blablabla</li>
 					<li>Lorem ipsum blablabla</li>
 				</ul>
-			</div>
+			</nav>
 		</div>
-	</div>
+	</section>
 </body>
 </html>
