@@ -1,14 +1,14 @@
 /* Redéfinition des titres, ou styles 
  * des paragraphes etc … */
-@font-face {
+@font-face{
 	font-family: Lond;
 	src: url('Fonts/OldLondon.ttf');
 }
-@font-face {
+@font-face{
 	font-family: DejaVuSans;
 	src: url('Fonts/DejaVuSans.ttf');
 }
-@font-face {
+@font-face{
 	font-family: quadranta;
 	src: url('Fonts/Auctoritas Regular.ttf');
 }
@@ -21,15 +21,21 @@ p{
 	text-indent:20px;
 	text-align:justify;
 }
+article p{
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+}
+
+nav p{
+	padding: 5px;
+}
+
 h1{
 	font-size: 3em;
 	text-align: center;
 	font-family: quadranta;
-}
-
-h2{
-	font-size: 2em;
-	font-family: quadranta
+	margin-bottom: 1em;
 }
 nav.gvolet h1{
 	font-size:2em; /* Taille spécifique des titres des volets */
@@ -39,17 +45,24 @@ nav.gvolet h1{
 nav.volet h1{
 	font-size: 1.3em;
 }
-nav.gvolet h2:first-letter{
+
+h2{
+	font-size: 2em;
+	font-family: quadranta
+}
+nav.gvolet h2:first-letter, .items h2:first-letter{
 	padding-left: 30px;
-	background-image: url('Images/title.png');
-	background-repeat: no-repeat;
+	background: url('Images/title.png') no-repeat center left;
 }
 h3{
 	font-size: 2em;
 	text-align: center;
 	font-family: quadranta;
 }	
-
+#culture h3{
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
 ul{
 	list-style-image: url('Images/list.png');
 }
@@ -62,4 +75,10 @@ header{
 	font-family: Lond;
 	text-align: center;
 	background: url('Images/fondHeader.png') center center no-repeat;
+}
+header img{
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	right: 20px;
 }

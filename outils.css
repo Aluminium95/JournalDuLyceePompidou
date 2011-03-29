@@ -21,6 +21,7 @@ nav{
 nav.volet{
 	background: url('Images/teteVolet.png') no-repeat center top;
 	border-bottom: 3px double #d2d2d2;
+	margin-top: 1px;
 }
 nav.gvolet{
 	background: url('Images/teteGV.png') no-repeat;

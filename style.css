@@ -25,6 +25,19 @@ body{
 	display: inline-block;
 }
 
+/* Culture */
+#culture article{
+	float: left;
+	padding: 10px;
+	padding-top: 0px;
+	width: 47%;
+}
+#culture article p{
+	-webkit-column-count: 1;
+	column-count: 1;
+	-moz-column-count: 1;
+}
+
 /* Liste articles */
 
 #listeArticles .contenu{
