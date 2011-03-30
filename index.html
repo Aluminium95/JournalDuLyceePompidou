@@ -11,12 +11,12 @@
 		<!-- L'en tête contenant l'image, la date, etc … -->
 		<header>
 			Le Georges
-			<img src='Images/yeti.png'/>
+			<img src='Images/yeti2.png'/>
 		</header>
 		<ul id='infoTirage'>
-			<li style='float: left; padding-left: 20px;'>27 mars 2011</li>
+			<li>27 mars 2011</li>
 			<li>N°-1</li>
-			<li style='float: right; padding-right: 20px;'>Site web / flux atom</li>
+			<li>Site web / flux atom</li>
 		</ul>
 		<!-- Titre + photo + legende pour l'article principal -->
 		<h1>L'essor du FN en france</h1>
@@ -37,7 +37,7 @@
 		</article>
 		<!-- Bloc informatif sur le contenu du journal -->
 		<div style='clear: both'></div>
-		<nav class='gvolet' id='listeArticles'>
+		<nav id='listeArticles'>
 			<h1>Articles</h1>
 			<div class='contenu'>
 				<h2>Un super titre d'article !</h2>
@@ -56,14 +56,14 @@
 		</nav>
 		<!-- Pied de page -->
 		<div style='clear: both'></div>
-		<footer>Pour nous contacter 060625451</footer>
+		<footer>Pour nous contacter 0606254510</footer>
 	</section>
 	<!-- Page 2 -->
 	<section>
 		<!-- La partie de droite ( peut contenir n'importe quoi ) -->
-		<div class='droite'>
+		<aside class='droite' style='width: 6cm;'>
 			<!-- Insertion d'un volet ( avec un titre, non obligatoire ) -->
-			<nav class='volet' style='width: 6cm;'>
+			<nav>
 				<h1>Phrases « mythiques »</h1>
 				<ul class='contenu'>
 					<li>« Open office est un pare-feux », christine albanels</li>
@@ -75,7 +75,7 @@
 					<li>Praesent dictum mauris nec tortor sollicitudin non facilisis nulla scelerisque.</li>
 				</ul>
 			</nav>
-			<nav class='volet' style='width: 6cm;'>
+			<nav>
 				<h1>Les potins de St Georges</h1>
 				<p class='contenu'>C'est une idée géniale que de faire des potins
 				En effet cela permet de faire des potins ce qui est génial 
@@ -107,7 +107,7 @@
 				En effet cela permet de faire des potins ce qui est génial 
 				non de faire des potins</p>
 			</nav>
-		</div>
+		</aside>
 		<article>
 			<h1>L'essor du FN en france</h1>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec leo elementum placerat. Aenean tempus tristique lorem, non commodo velit sodales et. Cras adipiscing adipiscing convallis. Aliquam vel justo velit, eu dignissim justo. In hac habitasse platea dictumst. Sed nec lobortis dolor. Ut metus risus, molestie vulputate tristique eu, molestie vel tortor. Donec eleifend nulla quis metus convallis sagittis. Nulla ultricies, risus quis hendrerit egestas, neque magna hendrerit nibh, sed aliquet lacus lacus et orci. Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
@@ -146,14 +146,14 @@
 	<!-- Page4 -->
 	<section>
 		<!-- Annonces Actu Pub -->
-		<div class='gauche'>
-			<nav class='gvolet' style='width:100mm;' >
+		<aside class='gauche'>
+			<nav fond='grand' class='gvolet' style='width:100mm;' >
 				<h1>Publicité</h1>
 				<img src='Images/printer.png' style='width: 100%'/>
 			</nav>
-		</div>
-		<div class='droite'>
-			<nav class='gvolet' style='width: 100mm;'>
+		</aside>
+		<aside class='droite'>
+			<nav fond='grand' style='width: 100mm;'>
 				<h1>Annonces</h1>
 				<ul class='contenu'>
 					<li>Recherche journaliste pour la rubrique des Potins de St Georges, s'adresser au 06654891</li>
@@ -166,7 +166,7 @@
 					<li>Lorem ipsum blablabla</li>
 				</ul>
 			</nav>
-		</div>
+		</aside>
 	</section>
 </body>
 </html>
