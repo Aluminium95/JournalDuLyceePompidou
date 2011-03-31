@@ -47,15 +47,16 @@ body{
 }
 
 /* Liste articles */
-
-#listeArticles .contenu{
-	-webkit-column-count: 2;
-	-moz-column-count: 2;
-	column-count: 2;
+#listeArticles{
+	width: 49%;
+	float: left;
+}
+#listeArticles article{
 	margin: 0px;
 	width: 100%;
 	padding-left: 10px;
 	padding-right: 10px;
+	border-bottom: 4px double black;
 }
 /* Définition du footer */
 footer{

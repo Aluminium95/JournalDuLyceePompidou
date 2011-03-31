@@ -1,7 +1,7 @@
 /* Redéfinition des titres, ou styles 
  * des paragraphes etc … */
 @font-face{
-	font-family: Lond;
+	font-family: OldLondon;
 	src: url('Fonts/OldLondon.ttf');
 }
 @font-face{
@@ -9,7 +9,7 @@
 	src: url('Fonts/DejaVuSans.ttf');
 }
 @font-face{
-	font-family: quadranta;
+	font-family: "Auctoritas Regular";
 	src: url('Fonts/Auctoritas Regular.ttf');
 }
 body{
@@ -34,7 +34,7 @@ nav p{
 h1{
 	font-size: 3em;
 	text-align: center;
-	font-family: quadranta;
+	font-family: "Auctoritas Regular";
 	margin-bottom: 1em;
 }
 nav h1{
@@ -48,17 +48,20 @@ aside nav h1{
 
 h2{
 	font-size: 2em;
-	font-family: quadranta
+	font-family: "Auctoritas Regular";
 }
-nav h2:first-letter, .items h2:first-letter{
+[role=items] h3, h2[role=item]:first-letter, #listeArticles article h2:first-letter {
 	padding-left: 30px;
 	background: url('Images/title.svg') no-repeat center left;
 }
 h3{
 	font-size: 2em;
 	text-align: center;
-	font-family: quadranta;
-}	
+	font-family: "Auctoritas Regular";
+}
+[role=items] h3{
+	text-align: left;
+}
 #culture h3{
 	margin-top: 0px;
 	margin-bottom: 10px;
@@ -72,9 +75,9 @@ header{
 	width:210mm;
 	height: 113px;
 	font-size: 100px;
-	font-family: Lond;
+	font-family: OldLondon;
 	text-align: center;
-	background: url('Images/fondHeader.png') center center no-repeat;
+	background: url('Images/head.svg') center center no-repeat;
 }
 header img{
 	width: 70px;

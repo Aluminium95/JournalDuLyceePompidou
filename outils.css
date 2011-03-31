@@ -12,7 +12,12 @@
 	font-size: 11px;
 	text-align: center;
 }
-
+[border=left]{
+	border-left: 4px double black;
+}
+[border=right]{
+	border-right: 4px double black;
+}
 /* Définition des volets */
 nav{
 	padding-top:1px;
@@ -26,6 +31,7 @@ aside nav{
 }
 nav[fond=grand]{
 	background: url('Images/tGV.svg') no-repeat;
+	border-bottom: none;
 }
 nav .contenu{/* Tout les contenus on ces propriétés ( volets ou main ) */
 	/*background: url('Images/piedVolet.png') no-repeat bottom center;

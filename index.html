@@ -1,16 +1,17 @@
+<!DOCTYPE html/>
 <html>
 <head>
 	<title>Journal du lycée</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<link rel='stylesheet' type='text/css' href='styleTitres.css'\>
-	<link rel='stylesheet' type='text/css' href='style.css'\>
-	<link rel='stylesheet' type='text/css' href='outils.css'\>
+	<link rel='stylesheet' type='text/css' href='styleTitres.css'/>
+	<link rel='stylesheet' type='text/css' href='style.css'/>
+	<link rel='stylesheet' type='text/css' href='outils.css'/>
 </head>
 <body>
 	<section>
 		<!-- L'en tête contenant l'image, la date, etc … -->
 		<header>
-			Le Georges
+			Le Gorges
 			<img src='Images/yeti2.png'/>
 		</header>
 		<ul id='infoTirage'>
@@ -20,40 +21,45 @@
 		</ul>
 		<!-- Titre + photo + legende pour l'article principal -->
 		<h1>L'essor du FN en france</h1>
-		<div class='droite' style='width: 9cm;'>
-			<img src='http://chribactu.20minutes-blogs.fr/media/02/00/524871032.2.jpg' style='width: 100%;'/>
+		<div class='droite' style='width: 10cm;'>
+			<img src='http://chribactu.20minutes-blogs.fr/media/02/00/524871032.2.jpg' style='width: 100%; height: 10cm;'/>
 			<p class='legende'>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</p>
 		</div>
-		<article>
+		<article role='items'>
 			<h2>L'essor du fn soulève beaucoup de questions</h2>
-			<span class='items'>
-				<h2>Comment cela se passe-t-il ?</h2>
-				En effet on peut se poser des questions sur ces différentes …
-				<h2>Quels sont les conséquences ?</h2>
-				Les conséquences nombreuses des retombées nucléaires
-				<h2>Quel avenir ?</h2>
-				Aucun
-			</span>
+			<h3>Comment cela se passe-t-il ?</h3>
+			En effet on peut se poser des questions sur ces différentes …
+			<h3>Quels sont les conséquences ?</h3>
+			Les conséquences nombreuses des retombées nucléaires
+			<h3>Quel avenir ?</h3>
+			Aucun
 		</article>
 		<!-- Bloc informatif sur le contenu du journal -->
 		<div style='clear: both'></div>
-		<nav id='listeArticles'>
-			<h1>Articles</h1>
-			<div class='contenu'>
+		<aside id='listeArticles'>
+			<article>
 				<h2>Un super titre d'article !</h2>
 				<p>C'est une superbe occasion de raconter sa vie !</p>
+			</article>
+			<article>
 				<h2>Un super titre d'article !</h2>
 				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-				<h2>Un super titre d'article !</h2>
-				<p>C'est une superbe occasion de raconter sa vie !</p>
-			</div>
-		</nav>
+			</article>
+		</aside>
+		<aside style='width: 49%; float: right;'>
+			<article>
+				<h1>Annonces</h1>
+				<ul>
+					<li>« Open office est un pare-feux », christine albanels</li>
+					<li>test un deux trois quatre</li>
+					<li>Quisque tempor sem eu libero sodales euismod.</li>
+					<li>Vestibulum sit amet dolor vitae mauris sagittis consequat et ac risus.</li>
+					<li>Integer gravida sodales tellus, suscipit condimentum eros sagittis sed.</li>
+					<li>Phasellus blandit tortor eu diam cursus ut dapibus elit placerat.</li>
+					<li>Praesent dictum mauris nec tortor sollicitudin non facilisis nulla scelerisque.</li>
+				</ul>
+			</article>
+		</aside>
 		<!-- Pied de page -->
 		<div style='clear: both'></div>
 		<footer>Pour nous contacter 0606254510</footer>
@@ -61,7 +67,7 @@
 	<!-- Page 2 -->
 	<section>
 		<!-- La partie de droite ( peut contenir n'importe quoi ) -->
-		<aside class='droite' style='width: 6cm;'>
+		<aside class='gauche' style='width: 6cm;' border='right'>
 			<!-- Insertion d'un volet ( avec un titre, non obligatoire ) -->
 			<nav>
 				<h1>Phrases « mythiques »</h1>
