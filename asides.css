@@ -15,7 +15,8 @@ aside{
 	padding:5px;
 }
 aside article{
-	margin-bottom: 100px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid black;
 }
 aside h1{
 	font-size: 1.2em;

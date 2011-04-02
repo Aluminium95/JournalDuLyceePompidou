@@ -7,7 +7,7 @@
 	<!-- Bannière info tirage ( css dans head_foot.css ) -->
 		<ul id='infoTirage'>
 			<li>27 mars 2011</li>
-			<li>N°-1</li>
+			<li>Alpha 3.1.3</li>
 			<li>Site web / flux atom</li>
 		</ul>
 	<!-- Article Principal -->
@@ -56,6 +56,6 @@
 		<div role='sign'>Toute l'équipe de rédaction</div>
 	</article>
 	<footer>
-		Ceci est une maquette, une version Alpha ( 3.1.2 )
+		Ceci est une maquette, une version Alpha ( 3.1.3 )
 	</footer>
 </section>
