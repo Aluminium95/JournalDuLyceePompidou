@@ -2,13 +2,12 @@
 	<aside>
 		<article>
 			<h1>Musique</h1>
-			<p>Hello</p>
-			<img src='http://i260.photobucket.com/albums/ii24/blackoum/CD into the pit/helloween7cover.jpg?t=1295171135'/>
+			<p></p>
+			<div role='clear'></div>
 		</article>
 		<article>
 			<h1>Film</h1>
 			<p>Test test test test test test test test</p>
-			<img src='http://www.zone-ufo.com/wp-content/uploads/2010/06/matrix-code.jpg'/>
 		</article>
 		<article>
 			<h1>Wah un titre de mini article !</h1>

@@ -7,7 +7,7 @@
 	<!-- Bannière info tirage ( css dans head_foot.css ) -->
 		<ul id='infoTirage'>
 			<li>27 mars 2011</li>
-			<li>Alpha 3.1.3</li>
+			<li>Alpha 4.0.1</li>
 			<li>Site web / flux atom</li>
 		</ul>
 	<!-- Article Principal -->
@@ -37,7 +37,7 @@
 			<p>Alors qu'une nouvelle hausse de 5,2% vient d'entrer en vigueur, le gouvernement pourrait geler les prix du gaz jusqu'à la présidentielle.</p>
 		</article>
 		<article>
-			<h1>Titre de cet article</h1>
+			<h1>Comment Bing, le moteur de recherche de Microsoft, veut contrer Google</h1>
 			<p>Introduction de cet article</p>
 		</article>
 		<article>

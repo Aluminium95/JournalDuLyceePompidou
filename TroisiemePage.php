@@ -43,19 +43,19 @@
 		<div role='sign'>Un rédacteur</div>
 	</article>
 	<article>
-		<h1>C'est un magnifique article de malade </h1>
+		<h1>Comment Bing, le moteur de recherche de Microsoft, veut contrer Google</h1>
 		<div colones='yes'>
-			<h2>Une affaire étrange</h2>
-			<p>aunriestau eaui, aéodlau livdk'aplod.kaulnd'k alédpoq'k javdok 
-			aeu,klt' apovka' lnotk'aluvdi.k ailte japvoc,jvl'au ekvt ajlov,c aéé
-			okao' japlvok' apzlod.ktan ultde,'jalpk ajto',kjldaotcjklvd ajolv,k</p>
-			<h2>Titre suivant</h2>
-			<p>Paragraphe n°2</p>
+			<h2>Aux États-Unis, Bing est à la troisième place des audiences vidéos</h2>
+			<p>Microscopique en France, éternel suiveur aux États-Unis, Bing sait avoir des succès. Dans la vidéo par exemple, où Youtube (Google) caracole en tête des services vidéos dans le monde. Un rapide test suffit pour convaincre. Pour une recherche sur la « Libye », les premières vidéos qui sont proposées sur Bing datent de ces derniers jours et concernent l'actualité autour des événements récents (départ du Guide, commentaires de la classe politique...). Elles proviennent pour la plupart de Dailymotion. Sur Youtube, les résultats sont moins frais. La première vidéo qui apparaît (également remontée de Dailymotion) date du 9 mars 2009. Il s'agit d'un documentaire d'Arte, axé sur le retour de Khadafi sur la scène internationale, loin, très loin de l'actualité. En outre, sur Bing Videos, pas besoin de cliquer sur la vignette et de changer de site pour savoir de quoi il s'agit. Il suffit de glisser sa souris sur le contenu pour que la vidéo se mette en marche afin de vérifier qu'elle correspond bien la recherche. Autre avantage, il est possible de classer les vidéos par date, plutôt que par pertinence.</h2>
+			<h2>Un créneau très porteur</h2>
+			<p>Bien entendu, la démonstration n'est pas universelle, surtout en France, où Bing vient à peine d'être décliné au niveau local. Elle n'en témoigne pas moins de la volonté du moteur de recherche d'investir un créneau très porteur sur le Net. Ainsi, aux États-Unis, Microsoft a brutalement réduit l'écart avec Google. En février, avec 48,8 millions de visiteurs uniques, il s'est propulsé à troisième place du classement au coude à coude avec le numéro deux Vevo, issu d'une alliance entre les maisons de disque et Youtube. En termes de sessions, le nombre de fois où le site a été ouvert par l'utilisateur, Bing Videos est même devant Vevo. Google est toujours en tête avec 141 millions de visiteurs uniques. Le bond de Microsoft est à mettre en grande partie sur le compte du Super Bowl. Un mois plus tôt, l'éditeur de logiciels et ses vidéos pointaient encore à la septième place du classement derrière Yahoo, Viacom, AOL et Facebook. Aux États-Unis, la page d'accueil de Bing dans la vidéo reprend la présentation sous forme de portail de MSN Vidéo, plus éditorialisée. Pour le moment, Microsoft n'a pas prévu d'appliquer cette stratégie à l'international.
+			</p>
 			<div role='img'>
-				<img src='http://www.marine-le-pen.com/wp-content/uploads/2010/11/de087ce8mlp.jpg'/>
-				<p>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</p>
+				<img src='http://www.latribune.fr/getCrop.php?ID=3211547&ext=jpg&W=600&H=280&ptr=0'/>
+				<p>Infographie La Tribune/CLACHKAREFF</p>
 			</div>
 		</div>
 		<div role='sign'>Un rédacteur </div>
 	</article>
+	
 </section>

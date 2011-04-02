@@ -1,12 +1,12 @@
 /* Gestion des Asides */
 body section:nth-child(2) aside{
 	float: left;
-	border-right: 1px solid black;
+	border-right: 2px solid grey;
 	margin-right: 5px;
 }
 body section:nth-child(3) aside{
 	float: right;
-	border-left: 1px solid black;
+	border-left: 2px solid grey;
 	margin-left: 5px;
 }
 aside{
@@ -16,7 +16,7 @@ aside{
 }
 aside article{
 	padding-bottom: 15px;
-	border-bottom: 1px solid black;
+	border-bottom: 3px double grey;
 }
 aside h1{
 	font-size: 1.2em;
