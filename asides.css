@@ -6,12 +6,12 @@ body section:nth-child(2) aside{
 }
 body section:nth-child(3) aside{
 	float: right;
-	border-left: 1px solid black;
+	border-left: 1px solid black;
 	margin-left: 5px;
 }
 aside{
 	width: 30%;
-	height: 100%;
+	height: 290mm;
 	padding:5px;
 }
 aside article{

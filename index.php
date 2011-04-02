@@ -8,7 +8,7 @@
 	<link rel='stylesheet' type='text/css' href='head_foot.css'/>
 	<link rel='stylesheet' type='text/css' href='premierePage.css'/>
 	<link rel='stylesheet' type='text/css' href='asides.css' />
-	<link rel="suppléant" type="application/atom+xml" href="synd.php" />
+	<link rel="suppleant" type="application/atom+xml" href="synd.php" />
 </head>
 <body>
 	<?php include('PremierePage.php'); ?>

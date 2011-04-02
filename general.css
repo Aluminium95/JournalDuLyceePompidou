@@ -26,7 +26,7 @@ article{
 	margin-bottom: 40px;
 }
 ul{
-	list-style-image: url('Images/list.png');
+	list-style-image: url('Images/title.svg') no-repeat center left;
 }
 h1{
 	font-size: 2em;

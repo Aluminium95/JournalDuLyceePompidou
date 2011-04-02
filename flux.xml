@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"/>
+<?xml version='1.0' encoding='utf-8' ?>
 <atom:feed xmlns:atom="http http://www.w3.org/2005/Atom ">
-	<atom:id> Flux du journal du lycée Le Gorges </ atom:id>
-	<atom:title>Le Gorges</ atom:title>
+	<atom:id> Flux du journal du lycée Le Gorges </atom:id>
+	<atom:title>Le Gorges</atom:title>
 	<atom:updated> date de la dernière mise à jour </atom:updated>
 	<atom:link href="URL de ce document" rel="self"/>
 	<atom:author>
-		<atom:name> L'équipe de rédaction du journal<atom:name>
-		<atom:email> lopezaliaume@gmail.com <atom:email>
-	</ atom: author>
+		<atom:name> L'équipe de rédaction du journal</atom:name>
+		<atom:email> lopezaliaume@gmail.com </atom:email>
+	</atom:author>
 	<atom:entry>
 		<atom:title> Titre de l’Aritcle </atom:title>
 		<atom:id>ID de l'article</atom:id>
 		<atom:updated> w3c Date de l’histoire </atom:updated>
 		<atom:link href="Le lien vers l'article sur le site"/>
-		<atom:summary> court résumé de l'article <atom:summary>
-		<atom:content type=”html”>
-		<! [CDATA [le contenu de votre message]]>
+		<atom:summary> court résumé de l'article </atom:summary>
+		<atom:content type='html'>
 		</atom:content>
 	</atom:entry>
 	<atom:category term="Une catégorie particulière ( pour les abonnements restreints )"/>
@@ -24,9 +23,9 @@
 		<atom:id>ID de l'article</atom:id>
 		<atom:updated> w3c Date de l’histoire </atom:updated>
 		<atom:link href="Le lien vers l'article sur le site"/>
-		<atom:summary> court résumé de l'article <atom:summary>
-		<atom:content type=”html”>
-		<! [CDATA [le contenu de votre message]]>
+		<atom:summary> court résumé de l'article </atom:summary>
+		<atom:content type='html'>
+		<![CDATA[le contenu de votre message]]>
 		</atom:content>
 	</atom:entry>
 </atom:feed>
