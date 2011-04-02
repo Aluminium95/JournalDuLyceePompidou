@@ -12,24 +12,29 @@
 		</ul>
 	<!-- Article Principal -->
 	<article role='Principal'>
-		<h1>Titre de l'article Principal</h1>
+		<h1>Firefox 4 distance Internet Explorer 9</h1>
 		<div role='img'>
-			<img src='http://www.marine-le-pen.com/wp-content/uploads/2010/11/de087ce8mlp.jpg' />
-			<p>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</p>
+			<img src='http://www.veilleur-strategique.eu/wp-content/uploads/2011/03/firefox-4.jpg' />
+			<p>Image non-contractuelle</p>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-		Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. 
-		Aliquam quis tellus leo, ac lacinia orci.</p>
-		<h2>Une question amorce …</h2>
-		<h2>Une question amorce …</h2>
-		<h2>Une question amorce …</h2>
+		<p>
+		Il y a quelques jours, le 23 mars dernier, nous vous parlions du 
+		« carton » de Firefox 4 dans sa version finale, en moins de 24 
+		heures, Firefox 4 avait été téléchargé près de 5 millions de fois, 
+		bien loin des 2,3 millions de téléchargements en 24 heures d’Internet
+		Explorer 9 soit plus du double que la version bêta d’Internet 
+		Explorer 9 (1 million de téléchargements) et 4 fois plus que la 
+		version Release Candidate dans le même laps de temps.</p>
+		<h2>Comment Microsoft réagit-il ?</h2>
+		<h2>Et chrome dans tout cela ?</h2>
+		<h2>F.F. continuera-t-il sur cette voie ?</h2>
 		<div role='clear'></div>
 	</article>
 	
 	<div role='Introduction'>
 		<article>
-			<h1>Titre de cet article</h1>
-			<p>Introduction de cet article</p>
+			<h1>Flambée des prix du gaz : le gouvernement tente de faire marche arrière</h1>
+			<p>Alors qu'une nouvelle hausse de 5,2% vient d'entrer en vigueur, le gouvernement pourrait geler les prix du gaz jusqu'à la présidentielle.</p>
 		</article>
 		<article>
 			<h1>Titre de cet article</h1>
