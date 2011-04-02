@@ -1,0 +1,47 @@
+@font-face{
+	font-family: "Old London";
+	src: url('Fonts/OldLondon.ttf');
+}
+@font-face{
+	font-family: DejaVuSans;
+	src: url('Fonts/DejaVuSans.ttf');
+}
+@font-face{
+	font-family: Auctoritas;
+	src: url('Fonts/Auctoritas Regular.ttf');
+}
+section{
+	width: 208mm;
+	height: 297mm;
+	margin: 0px;
+	padding-left: 1mm;
+	padding-right: 1mm;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: DejaVuSans;
+}
+article{
+	margin-bottom: 40px;
+}
+ul{
+	list-style-image: url('Images/list.png');
+}
+h1{
+	font-size: 2em;
+	text-align: center;
+	font-family: Auctoritas;
+	margin-bottom: 0.5em;
+	margin-top: 0.2em;
+}
+h2{
+	font-size: 1.5em;
+	font-family: Auctoritas;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+p{
+	text-indent:20px;
+	text-align: justify;
+}

@@ -1,0 +1,35 @@
+/* Floats */
+[float=left]{
+	float: left;
+}
+[float=right]{
+	float: right;
+}
+[role=clear]{
+	clear: both;
+}
+/* Images */
+div[role=img]{
+	width: 100%;
+}
+div[role=img] p{
+	font-size: 11px;
+	text-align: center;
+}
+/* Signatures */
+[role=sign]{
+	font-style: italic;
+	float: right;
+	font-size: 12px;
+}
+/* Colones */
+[colones=yes]{
+	-webkit-column-count: 2;
+	column-count: 2;
+	-moz-column-count: 2;
+}
+[colones=no]{
+	-webkit-column-count: 1;
+	column-count: 1;
+	-moz-column-count: 1;
+}

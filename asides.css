@@ -1,0 +1,22 @@
+/* Gestion des Asides */
+body section:nth-child(2) aside{
+	float: left;
+	border-right: 1px solid black;
+	margin-right: 5px;
+}
+body section:nth-child(3) aside{
+	float: right;
+	border-left: 1px solid black;
+	margin-left: 5px;
+}
+aside{
+	width: 30%;
+	height: 100%;
+	padding:5px;
+}
+aside article{
+	margin-bottom: 100px;
+}
+aside h1{
+	font-size: 1.2em;
+}

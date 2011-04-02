@@ -1,0 +1,45 @@
+/* Définition du header */
+header{
+	width:210mm;
+	height: 113px;
+	font-size: 100px;
+	font-family: "Old London";
+	text-align: center;
+	background: url('Images/head.svg') center center no-repeat;
+}
+header img{
+	width: 70px;
+	position: absolute;
+	top: 0px;
+	right: 20px;
+}
+/* Définition du footer */
+footer{
+	width: 21cm;
+	padding-top: 5px;
+	border-top: 1px solid black;
+	position: absolute;
+	top: 290mm;
+	text-align: center;
+}
+/* Info Tirage */
+#infoTirage{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 0px;
+	text-align: center;
+}
+#infoTirage li{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}
+#infoTirage li:nth-child(1){
+	float: left;
+	padding-left: 20px;
+}
+#infoTirage li:nth-child(3){
+	float: right;
+	padding-right: 20px;
+}

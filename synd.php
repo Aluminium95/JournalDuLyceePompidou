@@ -17,7 +17,7 @@
 <feed xml:lang='fr-fr' xmlns='http://www.w3.org/2005/Atom'>
   <title>Le Gorges Atom</title>
   <subtitle>Le journal indépendant du lycée Pompidou</subtitle>
-  <link href='http://localhost/synd.php' rel='self'/>
+  <link href='http://localhost/Journal/synd.php' rel='self'/>
   <updated>";
   echo date(DATE_ATOM);
   echo "</updated>
@@ -25,7 +25,7 @@
        <name>Votre Nom</name>
        <email>contact@monclub.fr</email>
   </author>
-  <id> tag:LeGorges,http://localhost/synd.php </id>";
+  <id> tag:LeGorges,http://localhost/Journal/synd.php </id>";
 ?>
 <?php
 // Parcours des résultats et création du flux ATOM
