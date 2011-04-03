@@ -8,7 +8,6 @@ body section:nth-child(3) aside{
 	float: right;
 	border-left: 2px solid grey;
 	margin-left: 5px;
-	height: 280mm;
 }
 aside{
 	width: 30%;

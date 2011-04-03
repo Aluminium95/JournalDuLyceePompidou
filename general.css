@@ -11,11 +11,11 @@
 	src: url('Fonts/Auctoritas Regular.ttf');
 }
 section{
-	width: 208mm;
+	width: 204mm;
 	height: 297mm;
 	margin: 0px;
-	padding-left: 1mm;
-	padding-right: 1mm;
+	padding-left: 3mm;
+	padding-right: 3mm;
 }
 body{
 	padding: 0px;
@@ -60,6 +60,8 @@ figure{
 }
 figure figcaption{
 	font-size: 11px;
+	text-align: center;
+	display: block;
 }
 mark{
 	font-weight: bold;

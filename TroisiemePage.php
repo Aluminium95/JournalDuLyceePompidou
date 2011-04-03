@@ -21,7 +21,7 @@
 			</ul>
 		</article>
 	</aside>
-	<article style='dsplay: block;'>
+	<article>
 		<h1>Firefox 4 distance Internet Explorer 9</h1>
 		<div colones='yes'>
 			<h2>Ce que dit Microsoft</h2>
@@ -40,7 +40,7 @@
 			<h2>Les chiffres</h2>
 			<p>Et le compteur ne cesse de monter, avec presque 53 600 000 de téléchargement au moment d’écrire cet article.</p>
 		</div>
-		<div role='sign'>Un rédacteur</div>
+		<footer>Un rédacteur</footer>
 	</article>
 	<article>
 		<h1>Comment Bing, le moteur de recherche de Microsoft, veut contrer Google</h1>
@@ -55,7 +55,7 @@
 				<figcaption>Infographie La Tribune/CLACHKAREFF</figcaption>
 			</figure>
 		</div>
-		<div role='sign'>Un rédacteur </div>
+		<footer>Un rédacteur </footer>
 	</article>
 	
 </section>

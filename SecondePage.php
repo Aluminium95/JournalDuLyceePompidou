@@ -21,8 +21,7 @@
 			<p>Lorem <mark>Test un deux trois</mark> ipsum dolor sit amet, consectetur adipiscing elit. 
 		Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. 
 		Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. 
-		Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec 
-		leo elementum placerat. Aenean tempus tristique lorem, non commodo velit 
+		Aenean eu lectus nec sapien feugiat accumsan.Aenean tempus tristique lorem, non commodo velit 
 		sodales et. Cras adipiscing adipiscing convallis.</p>
 		</article>
 		<article>
@@ -38,7 +37,7 @@
 			</ul>
 		</article>
 	</aside>
-	<article style='dsplay: block;'>
+	<article>
 		<h1>Flambée des prix du gaz : le gouvernement tente de faire marche arrière</h1>
 		<div colones='yes'>
 			<p>Alors qu'une nouvelle hausse de 5,2% vient d'entrer en vigueur, le gouvernement pourrait geler les prix du gaz jusqu'à la présidentielle.
@@ -77,14 +76,21 @@
 		<footer>Un rédacteur </footer>
 	</article>
 	<article>
-		<h1>C'est un magnifique article de malade </h1>
+		<h1>Un super article</h1>
 		<div colones='yes'>
 			<h2>Une affaire étrange</h2>
-			<p>aunriestau eaui, aéodlau livdk'aplod.kaulnd'k alédpoq'k javdok 
-			aeu,klt' apovka' lnotk'aluvdi.k ailte japvoc,jvl'au ekvt ajlov,c aéé
-			okao' japlvok' apzlod.ktan ultde,'jalpk ajto',kjldaotcjklvd ajolv,k</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+		Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. 
+		Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. 
+		Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec 
+		leo elementum placerat. </p>
 			<h2>Titre suivant</h2>
-			<p>Paragraphe n°2</p>
+			<p>Aenean tempus tristique lorem, non commodo velit 
+		sodales et. Cras adipiscing adipiscing convallis. Aliquam vel justo velit, 
+		eu dignissim justo. In hac habitasse platea dictumst. Sed nec lobortis dolor. 
+		Ut metus risus, molestie vulputate tristique eu, molestie vel tortor. Donec 
+		eleifend nulla quis metus convallis sagittis.
+		Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
 			<figure>
 				<img src='http://www.marine-le-pen.com/wp-content/uploads/2010/11/de087ce8mlp.jpg'/>
 				<figcaption>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</figcaption>
