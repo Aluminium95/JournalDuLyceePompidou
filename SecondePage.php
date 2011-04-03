@@ -13,12 +13,12 @@
 		eleifend nulla quis metus convallis sagittis. Nulla ultricies, risus quis 
 		hendrerit egestas, neque magna hendrerit nibh, sed aliquet lacus lacus et orci. 
 		Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
-		<div role='sign'>Toute l'équipe de rédaction</div></p>
+		<footer>Toute l'équipe de rédaction</footer></p>
 		<div role='clear'></div>
 		</article>
 		<article>
 			<h1>Film</h1>
-			<p>Lorem <mark>Test un deux trois</mark>ipsum dolor sit amet, consectetur adipiscing elit. 
+			<p>Lorem <mark>Test un deux trois</mark> ipsum dolor sit amet, consectetur adipiscing elit. 
 		Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. 
 		Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. 
 		Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec 
@@ -74,7 +74,7 @@
 			<p>La hausse des prix du gaz s'inscrit dans un contexte de renchérissement des 
 			prix de l'énergie (+ 15 % en un an) des prix du pétrole brut.</p>
 		</div>
-		<div role='sign'>Un rédacteur </div>
+		<footer>Un rédacteur </footer>
 	</article>
 	<article>
 		<h1>C'est un magnifique article de malade </h1>
@@ -85,11 +85,11 @@
 			okao' japlvok' apzlod.ktan ultde,'jalpk ajto',kjldaotcjklvd ajolv,k</p>
 			<h2>Titre suivant</h2>
 			<p>Paragraphe n°2</p>
-			<div role='img'>
+			<figure>
 				<img src='http://www.marine-le-pen.com/wp-content/uploads/2010/11/de087ce8mlp.jpg'/>
-				<p>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</p>
-			</div>
+				<figcaption>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</figcaption>
+			</figure>
 		</div>
-		<div role='sign'>Un rédacteur </div>
+		<footer>Un rédacteur </footer>
 	</article>
 </section>

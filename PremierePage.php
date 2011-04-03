@@ -58,9 +58,9 @@
 		eleifend nulla quis metus convallis sagittis. Nulla ultricies, risus quis 
 		hendrerit egestas, neque magna hendrerit nibh, sed aliquet lacus lacus et orci. 
 		Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
-		<div role='sign'>Toute l'équipe de rédaction</div>
+		<footer>Toute l'équipe de rédaction</footer>
 	</article>
-	<footer>
+	<footer role='footpage'>
 		Ceci est une maquette, une version Alpha ( 3.1.3 )
 	</footer>
 </section>

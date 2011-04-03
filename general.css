@@ -53,7 +53,16 @@ h1+p:first-letter, h1+div p:first-child:first-letter{
 img{
 	width: 100%;
 }
+figure{
+	width: 100%;
+	margin: 0px;
+	padding:0px;
+}
+figure figcaption{
+	font-size: 11px;
+}
 mark{
-	font-style: bold;
+	font-weight: bold;
+	font-size: 1.5em;
 	background: none;
 }

@@ -13,14 +13,20 @@ header img{
 	top: 0px;
 	right: 20px;
 }
-/* Définition du footer */
-footer{
+/* Définition du footer ( principal ) */
+footer[role=footpage]{
 	width: 21cm;
 	padding-top: 5px;
 	border-top: 1px solid black;
 	position: absolute;
-	top: 290mm;
+	top: 287mm;
 	text-align: center;
+}
+/* Définition du footer ( signature ) */
+article footer{
+	font-style: italic;
+	float: right;
+	font-size: 12px;
 }
 /* Info Tirage */
 #infoTirage{

@@ -8,21 +8,6 @@
 [role=clear]{
 	clear: both;
 }
-/* Images */
-figure{
-	width: 100%;
-	margin: 0px;
-	padding:0px;
-}
-figure figcaption{
-	font-size: 11px;
-}
-/* Signatures */
-[role=sign]{
-	font-style: italic;
-	float: right;
-	font-size: 12px;
-}
 /* Colones */
 [colones=yes]{
 	-webkit-column-count: 2;
