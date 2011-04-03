@@ -2,12 +2,28 @@
 	<aside>
 		<article>
 			<h1>Musique</h1>
-			<p></p>
-			<div role='clear'></div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+		Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. 
+		Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. 
+		Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec 
+		leo elementum placerat. Aenean tempus tristique lorem, non commodo velit 
+		sodales et. Cras adipiscing adipiscing convallis. Aliquam vel justo velit, 
+		eu dignissim justo. In hac habitasse platea dictumst. Sed nec lobortis dolor. 
+		Ut metus risus, molestie vulputate tristique eu, molestie vel tortor. Donec 
+		eleifend nulla quis metus convallis sagittis. Nulla ultricies, risus quis 
+		hendrerit egestas, neque magna hendrerit nibh, sed aliquet lacus lacus et orci. 
+		Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
+		<div role='sign'>Toute l'équipe de rédaction</div></p>
+		<div role='clear'></div>
 		</article>
 		<article>
 			<h1>Film</h1>
-			<p>Test test test test test test test test</p>
+			<p>Lorem <mark>Test un deux trois</mark>ipsum dolor sit amet, consectetur adipiscing elit. 
+		Nunc sed egestas tortor. Donec ac lectus vulputate diam eleifend dapibus. 
+		Aliquam quis tellus leo, ac lacinia orci. Phasellus sodales tincidunt risus a molestie. 
+		Aenean eu lectus nec sapien feugiat accumsan. Curabitur imperdiet nisl nec 
+		leo elementum placerat. Aenean tempus tristique lorem, non commodo velit 
+		sodales et. Cras adipiscing adipiscing convallis.</p>
 		</article>
 		<article>
 			<h1>Wah un titre de mini article !</h1>
@@ -28,10 +44,10 @@
 			<p>Alors qu'une nouvelle hausse de 5,2% vient d'entrer en vigueur, le gouvernement pourrait geler les prix du gaz jusqu'à la présidentielle.
 			La nouvelle avait fait grincer les dents de plus d'un foyer. La semaine dernière, on apprenait que EDF avait soumis à l'État un plan de hausse des tarifs du gaz sur 5 ans.
 			Résultat : une hausse des prix de 5 à 6,5% tous les ans... L'État, détenteur à 32% de GDF Suez serait contre cette augmentation.</p>
-			<div role='img'>
+			<figure>
 				<img src='http://medias.lepost.fr/ill/2010/01/20/h-4-1898041-1264009770.jpg'/>
-				<p>Une image de multi-prise ( sans rapport avec le gaz )</p>
-			</div>
+				<figcaption>Une image de multi-prise ( sans rapport avec le gaz )</figcaption>
+			</figure>
 			<h2>Une nouvelle hausse de 5,2% vient d'entrer en vigueur</h2>
 			<p>Une nouvelle qui a suscité une vague de contestation auprès des Français. Au point que le gouvernement envisage un gel du prix du gaz jusqu'à la présidentielle.
 			Vendredi après-midi une réunion interministérielle s'est tenue à Matignon. 

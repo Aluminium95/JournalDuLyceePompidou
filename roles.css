@@ -9,12 +9,13 @@
 	clear: both;
 }
 /* Images */
-div[role=img]{
+figure{
 	width: 100%;
+	margin: 0px;
+	padding:0px;
 }
-div[role=img] p{
+figure figcaption{
 	font-size: 11px;
-	text-align: center;
 }
 /* Signatures */
 [role=sign]{

@@ -1,8 +1,8 @@
 <section>
 	<aside>
 		<article>
-			<h1>Wah un titre de mini article !</h1>
-			<p>Test test test test test test test test</p>
+			<h1>Interview d'un Post-bac</h1>
+			<p>Jean-Philippe Ammeux dirige l'IESEG depuis quinze ans. Il a fait de cette petite école de commerce lilloise un établissement renommé, classé dans le top ten des meilleurs (cf. palmarès de l'Etudiant 2010 des ESC). Une success story qui n'était pas écrite d'avance pour cette business school au recrutement postbac. Jean-Philippe Ammeux revient sur les réformes menées et son choix de jouer la carte de l'international dès le départ. Une nouvelle séquence dans notre série « Les entrepreneurs pédagogiques ».</p>
 		</article>
 		<article>
 			<h1>Wah un titre de mini article !</h1>
@@ -50,10 +50,10 @@
 			<h2>Un créneau très porteur</h2>
 			<p>Bien entendu, la démonstration n'est pas universelle, surtout en France, où Bing vient à peine d'être décliné au niveau local. Elle n'en témoigne pas moins de la volonté du moteur de recherche d'investir un créneau très porteur sur le Net. Ainsi, aux États-Unis, Microsoft a brutalement réduit l'écart avec Google. En février, avec 48,8 millions de visiteurs uniques, il s'est propulsé à troisième place du classement au coude à coude avec le numéro deux Vevo, issu d'une alliance entre les maisons de disque et Youtube. En termes de sessions, le nombre de fois où le site a été ouvert par l'utilisateur, Bing Videos est même devant Vevo. Google est toujours en tête avec 141 millions de visiteurs uniques. Le bond de Microsoft est à mettre en grande partie sur le compte du Super Bowl. Un mois plus tôt, l'éditeur de logiciels et ses vidéos pointaient encore à la septième place du classement derrière Yahoo, Viacom, AOL et Facebook. Aux États-Unis, la page d'accueil de Bing dans la vidéo reprend la présentation sous forme de portail de MSN Vidéo, plus éditorialisée. Pour le moment, Microsoft n'a pas prévu d'appliquer cette stratégie à l'international.
 			</p>
-			<div role='img'>
+			<figure>
 				<img src='http://www.latribune.fr/getCrop.php?ID=3211547&ext=jpg&W=600&H=280&ptr=0'/>
-				<p>Infographie La Tribune/CLACHKAREFF</p>
-			</div>
+				<figcaption>Infographie La Tribune/CLACHKAREFF</figcaption>
+			</figure>
 		</div>
 		<div role='sign'>Un rédacteur </div>
 	</article>

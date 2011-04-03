@@ -13,10 +13,10 @@
 	<!-- Article Principal -->
 	<article role='Principal'>
 		<h1>Firefox 4 distance Internet Explorer 9</h1>
-		<div role='img'>
+		<figure>
 			<img src='http://www.veilleur-strategique.eu/wp-content/uploads/2011/03/firefox-4.jpg' />
-			<p>Image non-contractuelle</p>
-		</div>
+			<figcaption>Image non-contractuelle</figcaption>
+		</figure>
 		<p>
 		Il y a quelques jours, le 23 mars dernier, nous vous parlions du 
 		« carton » de Firefox 4 dans sa version finale, en moins de 24 
@@ -31,7 +31,7 @@
 		<div role='clear'></div>
 	</article>
 	
-	<div role='Introduction'>
+	<menu>
 		<article>
 			<h1>Flambée des prix du gaz : le gouvernement tente de faire marche arrière</h1>
 			<p>Alors qu'une nouvelle hausse de 5,2% vient d'entrer en vigueur, le gouvernement pourrait geler les prix du gaz jusqu'à la présidentielle.</p>
@@ -44,7 +44,7 @@
 			<h1>Titre de cet article</h1>
 			<p>Introduction de cet article</p>
 		</article>
-	</div>
+	</menu>
 	<article role='Edito'>
 		<h1>Editorial</h1>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 

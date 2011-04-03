@@ -20,14 +20,14 @@ section{
 body{
 	padding: 0px;
 	margin: 0px;
-	font-family: 'DejaVu Sans';
-	font-size: 13px;
+	font-family: 'Gentium Book Basic';
+	font-size: 14px;
 }
 article{
 	margin-bottom: 40px;
 }
 ul{
-	list-style-image: url('Images/title.svg') no-repeat center left;
+	list-style-image: url('Images/list.png') ;
 }
 h1{
 	font-size: 2em;
@@ -52,4 +52,8 @@ h1+p:first-letter, h1+div p:first-child:first-letter{
 }
 img{
 	width: 100%;
+}
+mark{
+	font-style: bold;
+	background: none;
 }

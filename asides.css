@@ -8,15 +8,19 @@ body section:nth-child(3) aside{
 	float: right;
 	border-left: 2px solid grey;
 	margin-left: 5px;
+	height: 280mm;
 }
 aside{
 	width: 30%;
-	height: 290mm;
+	height: 285mm;
 	padding:5px;
 }
 aside article{
 	padding-bottom: 15px;
 	border-bottom: 3px double grey;
+}
+aside article:last-child{
+	border: none;
 }
 aside h1{
 	font-size: 1.2em;
