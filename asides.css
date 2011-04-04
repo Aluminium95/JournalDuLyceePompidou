@@ -1,26 +1,29 @@
 /* Gestion des Asides */
 body section:nth-child(2) aside{
 	float: left;
-	border-right: 2px solid grey;
-	margin-right: 5px;
+	border-right: 1px solid silver;
+	margin-right: 10px;
+	padding-right: 10px;
 }
 body section:nth-child(3) aside{
 	float: right;
-	border-left: 2px solid grey;
-	margin-left: 5px;
+	border-left: 1px solid silver;
+	margin-left: 10px;
+	padding-left: 10px;
 }
 aside{
-	width: 30%;
+	width: 29%;
 	height: 285mm;
 	padding:5px;
 }
 aside article{
 	padding-bottom: 15px;
-	border-bottom: 3px double grey;
+	border-bottom: 3px double silver;
 }
 aside article:last-child{
 	border: none;
 }
 aside h1{
 	font-size: 1.2em;
+	color: gray;
 }

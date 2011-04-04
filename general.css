@@ -45,8 +45,13 @@ h2{
 p{
 	text-indent:20px;
 	text-align: justify;
+	margin: 2px; /* suppression des espaces entre paragraphes */
 }
 h1+p:first-letter, h1+div p:first-child:first-letter{
+	font-size: 2em;
+	font-family: "Old London";
+}
+article h2:first-child+p:first-letter{
 	font-size: 2em;
 	font-family: "Old London";
 }
