@@ -8,10 +8,10 @@ header{
 	background: url('Images/head.svg') center center no-repeat;
 }
 header img{
-	width: 70px;
+	width: 80px;
 	position: absolute;
-	top: 0px;
-	right: 20px;
+	top: 10px;
+	right: 30px;
 }
 /* Définition du footer ( principal ) */
 footer[role=footpage]{

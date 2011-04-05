@@ -2,7 +2,7 @@
 	<!-- Header -->
 	<header>
 		Le Georges
-		<img src='Images/yeti2.png'/>
+		<img src='Images/yeti.svg'/>
 	</header>
 	<!-- Bannière info tirage ( css dans head_foot.css ) -->
 		<ul id='infoTirage'>
