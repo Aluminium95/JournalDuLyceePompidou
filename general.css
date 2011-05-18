@@ -12,10 +12,14 @@
 }
 section{
 	width: 204mm;
-	height: 297mm;
+	height: 295mm;
 	margin: 0px;
 	padding-left: 3mm;
 	padding-right: 3mm;
+	padding-top: 1mm;
+	padding-bottom: 1mm;
+	background: green;
+	overflow: hidden;
 }
 body{
 	padding: 0px;
@@ -30,14 +34,14 @@ ul{
 	list-style-image: url('Images/list.png') ;
 }
 h1{
-	font-size: 2em;
+	font-size: 1.5em;
 	text-align: center;
 	font-family: Auctoritas;
 	margin-bottom: 0.5em;
 	margin-top: 0.2em;
 }
 h2{
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-family: Auctoritas;
 	margin-bottom:10px;
 	margin-top: 10px;

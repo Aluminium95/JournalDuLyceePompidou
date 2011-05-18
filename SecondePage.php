@@ -94,7 +94,7 @@
 		Quisque eu leo purus, venenatis interdum sapien. Proin in orci turpis.</p>
 			<figure>
 				<img src='http://www.marine-le-pen.com/wp-content/uploads/2010/11/de087ce8mlp.jpg'/>
-				<figcaption>Le front national, comment en est il arrivé là, vers où allons nous ( P.2 )</figcaption>
+				<figcaption>Le front national</figcaption>
 			</figure>
 		</div>
 		<footer>Un rédacteur </footer>
