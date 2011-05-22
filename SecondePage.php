@@ -18,7 +18,6 @@ Pour finir, les surveillants, eux, sont plutôt POUR que le portail reste fermé
 
 Les surveillants vous mettent à l’évidence, ils concluent : « de toute façon, c’est le proviseur qui décide ».</p>
 			<footer>S.D.</footer> <!-- signature -->
-			<div role='clear'></div>
 		</article>
 	</aside>
 	
@@ -34,11 +33,11 @@ Les surveillants vous mettent à l’évidence, ils concluent : « de toute faç
 		<footer>S.D. </footer> <!-- signature -->
 	</article>
 	<article>
-		<h1>Un super article</h1>
+		<h1>Avant première à Pompidou</h1>
 		<div colones='yes'>
 			<p>Les Oscars de Pompidou ? Plutôt pas mal, non ? Et oui, pour cette troisième édition le CVL innove et met en scène des nouveautés. En effet, ce n’est que la troisième année que le bal a lieu et cela, depuis l’arrivée de Monsieur DASI. De plus, alors que les thèmes des années précédentes étaient ordinaires, cette année le CVL élabore de nouveaux scénarios. Ainsi nous passons du thème « Classe » au thème du « Cinéma ». Objectif ? Avoir le meilleur déguisement, être le meilleur sosie, trouver celui qui saura se confondre parmi les stars Hollywoodiennes. Dans quel but ? S’amuser ? Evidemment. Remporter le concours ? Peut-être… En effet, le concours du meilleur déguisement sera organisé, et non pas seulement pour les lycéens, mais aussi pour les professeurs. Alors, à vous de jouer !</p>
 			<p>L’année dernière, l’ambiance était à son comble, et cela en partie grâce aux DJs et aux groupes de musiques. Même si les avis sont partagés, les deux ont su attirer l’attention des élèves. On notera quand même une légère préférence pour les DJs, même si selon une élève, « les groupes de musiques étaient géniaux ». Cette même élève a également ajouté que « l’ambiance était plutôt cool, si on oublie la pluie… »  L’ambiance était donc au rendez-vous. « Il y avait une super ambiance pendant le passage des DJs, tout le monde dansait, c’était cool, malgré la cour pleine de flaques », une autre élève nous a-t-elle affirmé. Nous pouvons donc dire que même si les groupes de musiques sont attendus, les DJs le sont encore plus. Moyen de décontraction avant les examens de fin d’année, soirée où tous les lycées peuvent se retrouver, la réussite du bal est mise en avant. Alors, espérons que tous les ingrédients soient réunis sur le tournage et que le temps soit aussi de la partie…</p>
 			</div>
-		<footer>Un rédacteur </footer>
+		<footer>C.V.L</footer>
 	</article>
 </section>

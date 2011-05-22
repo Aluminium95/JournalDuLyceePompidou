@@ -50,6 +50,11 @@
 			<p>Encore une fois depuis trois ans, le grand bal de fin d'année aura lieu. Le CVL* sort le grand jeu et déroule son tapis rouge.</p>
 			<footer>C.V.L. ( non ce n'est pas un pseudo … )</footer>
 		</article>
+		<article>
+			<h1>Liberté, égalité, citoyenneté ?</h1>
+			<p>Une brève alarmiste sur la situation française.</p>
+			<footer>M.L.</footer>
+		</article>
 	</menu>
 	<article role='Edito'> <!-- Court éditorial en première page --> 
 		<h1>Editorial</h1> <!-- Titre de l'édito -->
