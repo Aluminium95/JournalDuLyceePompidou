@@ -12,40 +12,43 @@
 		</ul>
 	<!-- Article Principal -->
 	<article role='Principal'>
-		<h1>Firefox 4 distance Internet Explorer 9</h1>
+		<h1>Le cartable numérique pèse un peu lourd </h1>
 		<figure> <!-- Image sur le côté droit -->
 			<img src='http://www.veilleur-strategique.eu/wp-content/uploads/2011/03/firefox-4.jpg' /> <!-- image -->
 			<figcaption>Image non-contractuelle</figcaption> <!-- Légende -->
 		</figure>
 		<p>
-		Il y a quelques jours, le <b>23 mars</b> dernier, nous vous parlions du 
-		« carton » de Firefox 4 dans sa version finale, en moins de 24 
-		heures, <em>Firefox 4</em> avait été téléchargé près de 5 millions de fois, 
-		bien loin des 2,3 millions de téléchargements en 24 heures d’Internet
-		<u>Explorer 9</u> soit plus du double que la version bêta d’Internet 
-		Explorer 9 (1 million de téléchargements) et 4 fois plus que la 
-		version Release Candidate dans le même laps de temps.</p>
+		Le cartable numérique, c’est un projet de la région du Languedoc 
+		Roussillon qui consiste à donner un ordinateur à chaque lycéen de 
+		la future seconde (2012), dans un cadre pédagogique.
+		Ce projet largement critiqué par certains, et fortement soutenu par 
+		d'autres, devrait à long terme, changer la façon de travailler au 
+		lycée. L'inclusion de l'ordinateur devant se faire progressivement
+		par manque de moyen techniques, financiers et matériels.</p>
 		<hgroup> <!-- Sous-titres accrocheurs/questions amorces --> 
-			<h2>Comment Microsoft réagit-il ?</h2>
-			<h2>Et chrome dans tout cela ?</h2>
-			<h2>F.F. continuera-t-il sur cette voie ?</h2>
+			<h2>Quels sont les réactions face à cette numérisation ?</h2>
+			<h2>Quels avantages scolaires peut-il y avoir ?</h2>
+			<h2>Quels sont les problèmes que l'on risque de rencontrer ?</h2>
 		</hgroup>
 		<div role='clear'></div> <!-- Nécessaire après les flottants --> 
 	</article>
 	
 	<menu> <!-- Menu à la carte pour cette édition du journal :D -->
 		<article> <!-- Présentation d'un article de cette édition -->
-			<h1>Flambée des prix du gaz : le gouvernement tente de faire marche arrière</h1> <!-- Titre de l'article -->
-			<p>Alors qu'une nouvelle hausse de 5,2% vient d'entrer en vigueur, le gouvernement pourrait geler les prix du gaz jusqu'à la présidentielle.</p>
+			<h1>Facebook is watching you !</h1> <!-- Titre de l'article -->
+			<p>Facebook et nous, petits lycéens naïfs que nous sommes. </p>
+			<footer>S.D.</footer>
 			<!-- Résumé de l'article -->
 		</article>
 		<article>
-			<h1>Comment Bing, le moteur de recherche de Microsoft, veut contrer Google</h1>
-			<p>Introduction de cet article</p>
+			<h1>Avis aux révolutionnaires !</h1>
+			<p>Les lycéens de l’établissement se révoltent : « Le portail du lycée est toujours fermé ! »</p>
+			<footer>M.B.</footer>
 		</article>
 		<article>
-			<h1>Titre de cet article</h1>
-			<p>Introduction de cet article</p>
+			<h1>Avant première à Pompidou</h1>
+			<p>Encore une fois depuis trois ans, le grand bal de fin d'année aura lieu. Le CVL* sort le grand jeu et déroule son tapis rouge.</p>
+			<footer>C.V.L. ( non ce n'est pas un pseudo … )</footer>
 		</article>
 	</menu>
 	<article role='Edito'> <!-- Court éditorial en première page --> 

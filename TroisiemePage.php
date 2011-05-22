@@ -1,59 +1,53 @@
 <section>
 	<aside>
 		<article>
-			<h1>Interview d'un Post-bac</h1>
-			<p>Jean-Philippe Ammeux dirige l'IESEG depuis quinze ans. Il a fait de cette petite école de commerce lilloise un établissement renommé, classé dans le top ten des meilleurs (cf. palmarès de l'Etudiant 2010 des ESC). Une success story qui n'était pas écrite d'avance pour cette business school au recrutement postbac. Jean-Philippe Ammeux revient sur les réformes menées et son choix de jouer la carte de l'international dès le départ. Une nouvelle séquence dans notre série « Les entrepreneurs pédagogiques ».</p>
-		</article>
+			<h1>Liberté Égalité Citoyenneté</h1>
+			<p>
+			Doit-on rappeler que la Démocratie et la République sont des régimes rares dans le monde, et que leur sécurité est un combat quotidien contre toutes les formes d’oppression qui existent ?
+
+			Comment peut-on alors s’offrir le luxe de négliger son rôle et ses responsabilités de citoyen Français alors qu’ils sont le fruit du sacrifice de nos aînés et que tant de peuples souffrent encore du totalitarisme ?
+
+			Ainsi, l’engagement citoyen est bien plus qu’un simple droit ou devoir, c’est un héritage que nous devons préserver au nom des libertés dont nous bénéficions.
+
+			Il est nécessaire d’agir face à l’impassibilité terrifiante de tant de lycéens qui demeurent insensibles aux multiples atteintes faites aux principes fondateurs de notre pays.
+			</p>
+			<footer>M.L.</footer>
+			</article>
 		<article>
 			<h1>Wah un titre de mini article !</h1>
 			<p>Test test test test test test test test</p>
 		</article>
 		<article>
-			<h1>Wah un titre de mini article !</h1>
+			<h1>Un magnifique sondage</h1>
+			<p>En quel média avez-vous le plus confiance ?</p>
 			<ul>
-				<li>Test test test test test</li>
-				<li>Test test test test test</li>
-				<li>Test test test test test</li>
-				<li>Test test test test test</li>
-				<li>Test test test test test</li>
-				<li>Test test test test test</li>
-				<li>Test test test test test</li>
+				<li>La presse ?</li>
+				<li>La télévision ?</li>
+				<li>La radio</li>
+				<li>Internet</li>
+				<li>Aucun, ils sont tous corompus</li>
+				<li>Tous, tout le monde il est beau, tout le monde il est gentil</li>
 			</ul>
+			<footer>M.L</footer>
 		</article>
 	</aside>
 	<article>
 		<h1>Firefox 4 distance Internet Explorer 9</h1>
 		<div colones='yes'>
-			<h2>Ce que dit Microsoft</h2>
-			<p>De son coté Microsoft ne se dit pas inquiet de ses chiffres, 
-			pour la Firme de Redmond la dernière version d’Internet Explorer 
-			9 ne bénéficie pas pour l’instant du support de la mise à jour 
-			automatique via Windows Update.
-			Pour rappel, Microsoft ne déploiera Internet Explorer 9 via 
-			Windows Update qu’au mois de juin prochain, le temps de laisser 
-			aux administrateurs de sites un délai pour faire les modifications 
-			afin de rendre les pages compatibles avec IE9.
-			Par contre, Microsoft n’a sans doute pas pris en compte le 
-			fait que les utilisateurs de Windows XP pourraient bien migrer
-			vers un navigateur concurrent, comme Firefox 4, IE9 n’étant pas
-			compatible avec le « vieux » système d’exploitation XP.</p>
-			<h2>Les chiffres</h2>
-			<p>Et le compteur ne cesse de monter, avec presque 53 600 000 de téléchargement au moment d’écrire cet article.</p>
-		</div>
-		<footer>Un rédacteur</footer>
-	</article>
-	<article>
-		<h1>Comment Bing, le moteur de recherche de Microsoft, veut contrer Google</h1>
-		<div colones='yes'>
-			<h2>Aux États-Unis, Bing est à la troisième place des audiences vidéos</h2>
-			<p>Microscopique en France, éternel suiveur aux États-Unis, Bing sait avoir des succès. Dans la vidéo par exemple, où Youtube (Google) caracole en tête des services vidéos dans le monde. Un rapide test suffit pour convaincre. Pour une recherche sur la « Libye », les premières vidéos qui sont proposées sur Bing datent de ces derniers jours et concernent l'actualité autour des événements récents (départ du Guide, commentaires de la classe politique...). Elles proviennent pour la plupart de Dailymotion. Sur Youtube, les résultats sont moins frais. La première vidéo qui apparaît (également remontée de Dailymotion) date du 9 mars 2009. Il s'agit d'un documentaire d'Arte, axé sur le retour de Khadafi sur la scène internationale, loin, très loin de l'actualité. En outre, sur Bing Videos, pas besoin de cliquer sur la vignette et de changer de site pour savoir de quoi il s'agit. Il suffit de glisser sa souris sur le contenu pour que la vidéo se mette en marche afin de vérifier qu'elle correspond bien la recherche. Autre avantage, il est possible de classer les vidéos par date, plutôt que par pertinence.</h2>
-			<h2>Un créneau très porteur</h2>
-			<p>Bien entendu, la démonstration n'est pas universelle, surtout en France, où Bing vient à peine d'être décliné au niveau local. Elle n'en témoigne pas moins de la volonté du moteur de recherche d'investir un créneau très porteur sur le Net. Ainsi, aux États-Unis, Microsoft a brutalement réduit l'écart avec Google. En février, avec 48,8 millions de visiteurs uniques, il s'est propulsé à troisième place du classement au coude à coude avec le numéro deux Vevo, issu d'une alliance entre les maisons de disque et Youtube. En termes de sessions, le nombre de fois où le site a été ouvert par l'utilisateur, Bing Videos est même devant Vevo. Google est toujours en tête avec 141 millions de visiteurs uniques. Le bond de Microsoft est à mettre en grande partie sur le compte du Super Bowl. Un mois plus tôt, l'éditeur de logiciels et ses vidéos pointaient encore à la septième place du classement derrière Yahoo, Viacom, AOL et Facebook. Aux États-Unis, la page d'accueil de Bing dans la vidéo reprend la présentation sous forme de portail de MSN Vidéo, plus éditorialisée. Pour le moment, Microsoft n'a pas prévu d'appliquer cette stratégie à l'international.
-			</p>
-			<figure>
-				<img src='http://www.latribune.fr/getCrop.php?ID=3211547&ext=jpg&W=600&H=280&ptr=0'/>
-				<figcaption>Infographie La Tribune/CLACHKAREFF</figcaption>
-			</figure>
+			<p>Le cartable numérique, c’est un projet de la région du Languedoc Roussillon qui consiste à donner un ordinateur à chaque lycéen de la future seconde (2012), dans un cadre pédagogique. Dans un souci de portabilité, le poids d'un ordinateur sera inférieur à 2,3 kg, possèdera un écran de 33 cm de diagonale, et d’une « autonomie accrue ». Le matériel ainsi fourni disposera d’un service après-vente de 3 ans. Il donné tel quel, avec le système d’exploitation Microsoft Windows et la suite bureautique OpenOffice. L'ordinateur n'étant pas un prêt mais un don, il ne sera aucunement verrouillé. L’établissement a pour l'instant prévu l'infrastructure nécessaire pour que les élèves puisse se connecter à Internet au CDI, à la cafeteria, ou encore dans la cour par le moyen de la technologie Wifi. Il n’est pas prévu, du moins pour l’instant, que les salles de cours soit équipées du Wifi.
+
+Aussi, le rectorat est en train de mettre en place un environnement numérique de travail (ENT), qui devrait être fonctionnel à la rentrée. L'établissement prévoit des formations pour les professeurs afin qu'ils puissent utiliser au mieux cet ENT. Cet outil en ligne permettra de partager des fichiers entre élèves et professeurs. L’élève pourra consulter l’agenda en ligne, pourra envoyer des devoirs à un professeur ou lui poser une question. Les usages de l'ENT pourraient parfaitement évoluer au fil du temps.
+Question professeurs
+
+Un professeur de mathématique nous a expliqué son point de vue par rapport à l'usage de l'ordinateur en cours de mathématique, justement. Il remarque que si l’outil informatique est disponible pendant son cours, il lui serait possible de faire des travaux pratiques dans la dynamique de son cours, sans être obligé d’attendre dans la semaine qu’une salle informatique soit disponible. Cette pratique peut augmenter la compréhension des élèves. Cependant, quelques inconvénients ont étés signalés par ce même professeur. En effet, les manuels numériques ne seront pas présents à la rentrée 2012, ce qui ne règle pas le problème du poids des manuels scolaires. Il souligne aussi que si des problèmes de maintenance venaient à survenir, il ne pourrait y faire face. Aussi, si un professeur doit distribuer des fichiers à ces élèves pendant le cours, il sera obligé de faire circuler des clés USB, du fait de l’absence d’un réseau entre les élèves et le professeur. Enfin, toute interaction par internet ne peut pas être garantie puisque l’élève ne possède pas forcément une connexion internet.
+
+Un autre professeur remarque que le problème de la maintenance est tout à fait analogue aux problèmes que l’on rencontre actuellement tel que l’oubli de matériel. Il suggère trois scénarii. L’élève pourrait n’utiliser son ordinateur uniquement chez lui, dans le cas le professeur n’autoriserait pas l’usage de l’ordinateur durant son cours. Aussi, le professeur pourrait montrer aux élèves des démarches à effectuer sur l’ordinateur que l’élève devra refaire chez lui. Enfin, les élèves pourraient utiliser directement l’ordinateur pendant le cours avec les conseils de l’ordinateur.
+
+L'entretien avec un troisième professeur nous révèle que l'infrastructure réseau s'est faite petit à
+ petit et qu'elle s'est développée de manière archaïque. C'est donc un problème notable, étant donné que d'ici trois ans, environ 1800 élèves du lycée seront suceptibles de se connecter au réseau. L'absence de plan global limite grandement les aménagements futurs pour supporter cette charge.
+Les réponses des élèves
+
+Nous avons interroger quelques élèves pour voir comment le projet était accueilli ou connu. Bien que les élèves du lycée soient malheureusement passé à côté de cette réforme, leurs avis sont tout de même intéressants.</p>
 		</div>
 		<footer>Un rédacteur </footer>
 	</article>
