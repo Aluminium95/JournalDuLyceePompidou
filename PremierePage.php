@@ -2,7 +2,7 @@
 	<!-- Header -->
 	<header>
 		Le Georges <!-- Titre du journal -->
-		<img src='Images/yeti.png'/> <!-- Logo du journal -->
+		<!--<img src='Images/yeti.png'/>  Logo du journal -->
 	</header>
 	<!-- Bannière info tirage ( css dans head_foot.css ) -->
 		<ul id='infoTirage'>

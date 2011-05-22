@@ -7,12 +7,12 @@ header{
 	text-align: center;
 	background: url('Images/head.svg') center center no-repeat;
 }
-header img{
+/*header img{
 	width: 80px;
 	position: absolute;
 	top: 10px;
 	right: 30px;
-}
+}*/
 /* Définition du footer ( principal ) */
 footer[role=footpage]{
 	width: 204mm;
