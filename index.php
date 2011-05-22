@@ -14,6 +14,6 @@
 	<?php include('PremierePage.php'); ?> <!-- inclusion de la première page-->
 	<?php include('SecondePage.php'); ?>
 	<?php include('TroisiemePage.php'); ?>
-	<?php include('DernierePage.php'); ?> <!-- Dernière page n'existe pas -->
+	<?php include('DernierePage.php'); ?>
 </body>
 </html>
