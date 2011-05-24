@@ -12,19 +12,11 @@
 		</ul>
 	<!-- Article Principal -->
 	<article role='Principal'>
-		<h1>Le cartable numérique pèse un peu lourd </h1>
+		<h1>Facebook is watching you !</h1>
 		<figure> <!-- Image sur le côté droit -->
 			<img src='http://www.veilleur-strategique.eu/wp-content/uploads/2011/03/firefox-4.jpg' /> <!-- image -->
-			<figcaption>Image non-contractuelle</figcaption> <!-- Légende -->
+			<figcaption>Le big brother du web 2.0</figcaption> <!-- Légende -->
 		</figure>
-		<p>
-		Le cartable numérique, c’est un projet de la région du Languedoc 
-		Roussillon qui consiste à donner un ordinateur à chaque lycéen de 
-		la future seconde (2012), dans un cadre pédagogique.
-		Ce projet largement critiqué par certains, et fortement soutenu par 
-		d'autres, devrait à long terme, changer la façon de travailler au 
-		lycée. L'inclusion de l'ordinateur devant se faire progressivement
-		par manque de moyen techniques, financiers et matériels.</p>
 		<hgroup> <!-- Sous-titres accrocheurs/questions amorces --> 
 			<h2>Quels sont les réactions face à cette numérisation ?</h2>
 			<h2>Quels avantages scolaires peut-il y avoir ?</h2>
@@ -35,9 +27,9 @@
 	
 	<menu> <!-- Menu à la carte pour cette édition du journal :D -->
 		<article> <!-- Présentation d'un article de cette édition -->
-			<h1>Facebook is watching you !</h1> <!-- Titre de l'article -->
-			<p>Facebook et nous, petits lycéens naïfs que nous sommes. </p>
-			<footer>S.D.</footer>
+			<h1>Le cartable numérique de seconde</h1> <!-- Titre de l'article -->
+			<p>Quels changements cette réforme apporte ? Comment est-elle prise ?</p>
+			<footer>F.L. & Alu95</footer>
 			<!-- Résumé de l'article -->
 		</article>
 		<article>
@@ -61,9 +53,9 @@
 		<p>« Le Georges, mais c’est nul comme titre. Ha. Haha. Ha. » Telle est hélas la réaction que beaucoup (trop) d’entre vous ont dû avoir en attrapant un exemplaire de ce premier numéro (pourtant si prometteur…). D’aucuns diront même que l’on ne peut carrément pas faire pire. Je pense que ces inconscients n’ont pas vu mon carnet d’idée… Bref, revenons à notre titre figurant quelques centimètres plus haut. Outre le jeu de mot facile et commercial (pour lequel une célèbre marque de café devrait nous payer des millions) qui l’accompagne, le choix de ce prénom aux résonnances aristocratiques a une ténébreuse origine. En effet, un soir, sortant de deux heures atroces (à la limite du respect des droits de l’homme) de cours avec Mr ********, professeur de ****** je croisai deux hommes à l’allure sombre. Il pleuvait dans une nuit tombant trop tôt pour une région dite « ensoleillée ». Ils étaient là, sous un réverbère.  L’un portait un pardessus noir tandis que je voyais saillir un revolver sous le blouson de l’autre. Ils semblaient totalement obnubilés par leur conversation ; à la fois fascinés et terrorisés par les mots qu’ils prononçaient. Alors que j’arrivais à leur hauteur, une phrase s’envola jusqu’à mes oreilles. Tout s’arrêta. Mes jambes continuèrent de se placer l’une devant l’autre mais il m’est impossible de me souvenir du reste du trajet jusqu’à chez moi… Et je vous assure que quand vous connaitrez la nouvelle que j’appris ce jour là, vous ne pourrez que comprendre quel fut mon état de choc. J’espère que vous êtes confortablement installé, et que l’infirmerie est capable de gérer la vague d’évanouissement que la prochaine phrase va provoquer. Mes amis, j’ai appris ce soir là que le « G. » discrètement placé devant « pompidou », le nom de notre…euh… très cher ( ?) lycée, n’est pas qu’une simple lubie de proviseur : c’est l’initiale d’un prénom, celui d’un ancien président de la Vème république parait-il. Ce prénom, c’est Georges. Ne pouvant garder pour nous une nouvelle d’une telle ampleur, nous avons décidé d’en faire le titre de notre journal.
 
 Voilà pourquoi le journal a comme titre un prénom moche.</p>
-		<footer>Toute l'équipe de rédaction</footer> <!-- signature -->
+		<footer>Robin</footer> <!-- signature -->
 	</article>
 	<footer role='footpage'> <!-- Footer du journal, pour mettre quelque chose si besoin -->
-		Ceci est une maquette, une version Alpha ( 3.1.3 )
+		Remerciements pour cette édition : Curto Ludivine pour le dessin du Georges
 	</footer>
 </section>

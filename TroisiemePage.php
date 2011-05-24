@@ -13,11 +13,8 @@
 			</p>
 			<footer>M.L.</footer>
 			<div role='clear'></div>
-			</article>
-		<article>
-			<h1>Wah un titre de mini article !</h1>
-			<p>Quel article venimeux et emporté ! On en lit pas souvent des comme ceux-là …</p>
 		</article>
+		
 		<article>
 			<h1>Un magnifique sondage</h1>
 			<p>En quel média avez-vous le plus confiance ?</p>
@@ -32,6 +29,7 @@
 			Pour voter, rendez-vous sur le site du journal !
 			<div role='clear'></div>
 			<footer>M.L</footer>
+			<div role='clear'></div>
 		</article>
 		<article>
 			<h1>L'O.U.R.S.</h1>

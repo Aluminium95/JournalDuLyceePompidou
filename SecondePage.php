@@ -18,6 +18,11 @@ Pour finir, les surveillants, eux, sont plutôt POUR que le portail reste fermé
 
 Les surveillants vous mettent à l’évidence, ils concluent : « de toute façon, c’est le proviseur qui décide ».</p>
 			<footer>M.B.</footer> <!-- signature -->
+			<div role='clear'></div>
+		</article>
+		<article>
+			<h1>Wah un titre de mini article !</h1>
+			<p>Quel article venimeux et emporté ! On en lit pas souvent des comme ceux-là …</p>
 		</article>
 	</aside>
 	
