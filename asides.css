@@ -26,8 +26,11 @@ aside article{
 aside article:last-child{
 	border: none;
 }
-aside h1{
+body section aside h1{
 	margin-top: 0px ;
 	color: gray;
 	font-size: 18px;
+}
+body section aside h2{
+	font-size: 14px !important;
 }
