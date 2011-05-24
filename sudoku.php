@@ -128,93 +128,105 @@ function affectation($i,$j,$m,$d){
   }
 }
 /*********         boucle                                         *************/
+function generate()
+{
+	global $reg, $lgn, $col;
+	global $grille ,$masque ,$loterie ,$collision;
+	
 $tentative = 0;
 $tentative_max = 10;
 initialisation();
 while (strlen($loterie)>0 and $tentative<$tentative_max){
-$tentative++;
-initialisation();
-$iter = 0;
-$itermax = 82;
-while ($loterie<>"" and $iter<$itermax){
-  $iter++;
-  // placement déterministe d'un chiffre dans une case
-  $bingo = 0;
-  for ($n=0; $n<=8; $n++){
-    for ($m=0; $m<=8; $m++){
-      // en premier les régions
-      if (strlen($reg[$n][$m])== 1){
-        $p = ord($reg[$n][$m])-48;
-        $i = floor($n/3)*3+floor($p/3);
-        $j = ($n-floor($n/3)*3)*3+($p-floor($p/3)*3);
-        affectation($i,$j,$m,"1");
-        $bingo = 1;
-        break;
-      }
-      // en second les lignes
-      if (strlen($lgn[$n][$m])== 1){
-        $p = ord($lgn[$n][$m])-48;
-        $i = $n;
-        $j = $p;
-        affectation($i,$j,$m,"1");
-        $bingo = 1;
-        break;
-      }
-      // en troisième les colonnes
-      if (strlen($col[$n][$m])== 1){
-        $p = ord($col[$n][$m])-48;
-        $i = $p;
-        $j = $n;
-        affectation($i,$j,$m,"1");
-        $bingo = 1;
-        break;
-      }
-    }
-    if ($bingo== 1) break;
-  }
-  // placement par tirage au sort, si le placement déterministe n'a pas abouti
-  if ($bingo== 0){
-    // tirage d'une case $i,$j parmis les cases libres
-    $ncase2 = strlen($loterie);
-    $ncase = strlen($loterie)/2;
-    $index = rand(0,$ncase-1)*2;
-    $posi = substr($loterie,$index,2);
-    // détermination des coordonnées de la case: $i,$j
-    $i = ord(substr($posi,0))-97;
-    $j = ord(substr($posi,1))-48;
-    // tirage d'un chiffre parmis les chiffres libres
-    $liste = "";
-    for ($m=0; $m<=8; $m++){
-      $libre = 1;
-      // régions
-      $n = floor($i/3)*3+floor($j/3);
-      if ($reg[$n][$m]== "") $libre = 0;
-      // lignes
-      $n = $i;
-      if ($lgn[$n][$m]== "") $libre = 0;
-      // colonnes
-      $n = $j;
-      if ($col[$n][$m]== "") $libre = 0;
-      // concaténation
-      if ($libre== 1) $liste = $liste.chr(48+$m);
-    }
-    if (strlen($liste)>0){
-      $m = ord(substr($liste,floor(rand(0,strlen($liste)-1))))-48;
-      affectation($i,$j,$m,"0");
-    }
-  }
+	$tentative++;
+	initialisation();
+	$iter = 0;
+	$itermax = 82;
+	while ($loterie<>"" and $iter<$itermax){
+	  $iter++;
+	  // placement déterministe d'un chiffre dans une case
+	  $bingo = 0;
+	  for ($n=0; $n<=8; $n++){
+		for ($m=0; $m<=8; $m++){
+		  // en premier les régions
+		  if (strlen($reg[$n][$m])== 1){
+			$p = ord($reg[$n][$m])-48;
+			$i = floor($n/3)*3+floor($p/3);
+			$j = ($n-floor($n/3)*3)*3+($p-floor($p/3)*3);
+			affectation($i,$j,$m,"1");
+			$bingo = 1;
+			break;
+		  }
+		  // en second les lignes
+		  if (strlen($lgn[$n][$m])== 1){
+			$p = ord($lgn[$n][$m])-48;
+			$i = $n;
+			$j = $p;
+			affectation($i,$j,$m,"1");
+			$bingo = 1;
+			break;
+		  }
+		  // en troisième les colonnes
+		  if (strlen($col[$n][$m])== 1){
+			$p = ord($col[$n][$m])-48;
+			$i = $p;
+			$j = $n;
+			affectation($i,$j,$m,"1");
+			$bingo = 1;
+			break;
+		  }
+		}
+		if ($bingo== 1) break;
+	  }
+	  // placement par tirage au sort, si le placement déterministe n'a pas abouti
+	  if ($bingo== 0){
+		// tirage d'une case $i,$j parmis les cases libres
+		$ncase2 = strlen($loterie);
+		$ncase = strlen($loterie)/2;
+		$index = rand(0,$ncase-1)*2;
+		$posi = substr($loterie,$index,2);
+		// détermination des coordonnées de la case: $i,$j
+		$i = ord(substr($posi,0))-97;
+		$j = ord(substr($posi,1))-48;
+		// tirage d'un chiffre parmis les chiffres libres
+		$liste = "";
+		for ($m=0; $m<=8; $m++){
+		  $libre = 1;
+		  // régions
+		  $n = floor($i/3)*3+floor($j/3);
+		  if ($reg[$n][$m]== "") $libre = 0;
+		  // lignes
+		  $n = $i;
+		  if ($lgn[$n][$m]== "") $libre = 0;
+		  // colonnes
+		  $n = $j;
+		  if ($col[$n][$m]== "") $libre = 0;
+		  // concaténation
+		  if ($libre== 1) $liste = $liste.chr(48+$m);
+		}
+		if (strlen($liste)>0){
+		  $m = ord(substr($liste,floor(rand(0,strlen($liste)-1))))-48;
+		  affectation($i,$j,$m,"0");
+		}
+	  }
+	}
 }
-}
-/************* fin de la boucle     *******************************************/
 if (strlen($loterie)!= 0){
   print("désolé, la recherche d'une grille a échouée après les $tentative_max tentatives.<br>\n");
   print("il reste des cases non résolues <i>(case \"0\" sur fond jaune)</i>.<br>\n");
   print("(<i style=color:green> rechargez ou actualisez la page (f5) pour un autre essais </i>)<br>\n");
 }
+}
+
+/************* fin de la boucle     *******************************************/
+
 ?>
 
 <?
 // affichage de la grille
+function aff()
+{
+	generate();
+	global $grille, $masque;
 $nalea = 0;
   for ($ri=0; $ri<=2; $ri++){
     print("<tr>\n");
@@ -247,5 +259,6 @@ $nalea = 0;
     }
     print("</tr>\n");
   }
+}
 ?>
 
