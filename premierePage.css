@@ -1,0 +1,55 @@
+/* Paragraphes */
+section[role=PremierePage] p{
+	-webkit-column-count: 1;
+	column-count: 1;
+	-moz-column-count: 1;
+}
+/* Article Principal */
+article[role=Principal]{
+	width: 100%;
+	margin-bottom: 3px;
+}
+article[role=Principal] h1{
+	font-size: 30px;
+}
+body section:nth-child(1) article[role=Principal] p:first-letter{
+	font-size: 20px;
+	font-family: Auctoritas;
+}
+article[role=Principal] figure{
+	float: right;
+	text-align: center;
+	width: 11cm;
+}
+article[role=Principal] figure img{
+	width: 10cm;
+}
+article[role=Principal] h2:first-letter{
+	font-size: 20px;
+	padding-left: 30px;
+	background: url('Images/title.svg') no-repeat center left;
+}
+
+/* Introduction des articles sur la première page */
+menu{
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	width: 100mm;
+	float: left;
+}
+menu article{
+	border-top: 3px double black;
+}
+menu article h1{
+	font-size: 20px;
+	color: gray;
+	text-align: left;
+}
+
+/* Editorial ( Première page ) */
+article[role=Edito]{
+	padding-left: 10px;
+	float: right;
+	width: 100mm;
+}
