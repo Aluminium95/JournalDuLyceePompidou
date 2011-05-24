@@ -16,44 +16,61 @@
 			</article>
 		<article>
 			<h1>Wah un titre de mini article !</h1>
-			<p>Test test test test test test test test</p>
+			<p>Quel article venimeux et emporté ! On en lit pas souvent des comme ceux-là …</p>
 		</article>
 		<article>
 			<h1>Un magnifique sondage</h1>
 			<p>En quel média avez-vous le plus confiance ?</p>
 			<ul>
-				<li>La presse ?</li>
-				<li>La télévision ?</li>
+				<li>La presse écrite</li>
+				<li>La télévision</li>
 				<li>La radio</li>
 				<li>Internet</li>
 				<li>Aucun, ils sont tous corompus</li>
 				<li>Tous, tout le monde il est beau, tout le monde il est gentil</li>
 			</ul>
-			Rendez le journal au CVL où votez sur le site ( http://le_super_site_de_la_mort_qui_tue_avec_pleins_d_underscores_comme_dans_GTK.com )
+			Pour voter, rendez-vous sur le site du journal !
+			<div role='clear'></div>
 			<footer>M.L</footer>
 		</article>
+		<article>
+			<h1>L'O.U.R.S.</h1>
+			<h2>Rédacteurs</h2>
+			<ul>
+				<li></li>
+			</ul>
+			<h2>Rédacteurs en chef</h2>
+			<ul>
+				<li></li>
+			</ul>
+			<h2>Responsable légal</h2>
+			<ul>
+				<li></li>
+			</ul>
+		</article>
 	</aside>
-	<article>
-		<h1>Le cartable numérique</h1>
-		<div colones='yes'>
-			<p>Le cartable numérique, c’est un projet de la région du Languedoc Roussillon qui consiste à donner un ordinateur à chaque lycéen de la future seconde (2012), dans un cadre pédagogique. Dans un souci de portabilité, le poids d'un ordinateur sera inférieur à 2,3 kg, possèdera un écran de 33 cm de diagonale, et d’une « autonomie accrue ». Le matériel ainsi fourni disposera d’un service après-vente de 3 ans. Il donné tel quel, avec le système d’exploitation Microsoft Windows et la suite bureautique OpenOffice. L'ordinateur n'étant pas un prêt mais un don, il ne sera aucunement verrouillé. L’établissement a pour l'instant prévu l'infrastructure nécessaire pour que les élèves puisse se connecter à Internet au CDI, à la cafeteria, ou encore dans la cour par le moyen de la technologie Wifi. Il n’est pas prévu, du moins pour l’instant, que les salles de cours soit équipées du Wifi.
-
-Aussi, le rectorat est en train de mettre en place un environnement numérique de travail (ENT), qui devrait être fonctionnel à la rentrée. L'établissement prévoit des formations pour les professeurs afin qu'ils puissent utiliser au mieux cet ENT. Cet outil en ligne permettra de partager des fichiers entre élèves et professeurs. L’élève pourra consulter l’agenda en ligne, pourra envoyer des devoirs à un professeur ou lui poser une question. Les usages de l'ENT pourraient parfaitement évoluer au fil du temps.
-</p>
-<h2>Réponses des professeurs</h2>
-<p>
-Un professeur de mathématique nous a expliqué son point de vue par rapport à l'usage de l'ordinateur en cours de mathématique, justement. Il remarque que si l’outil informatique est disponible pendant son cours, il lui serait possible de faire des travaux pratiques dans la dynamique de son cours, sans être obligé d’attendre dans la semaine qu’une salle informatique soit disponible. Cette pratique peut augmenter la compréhension des élèves. Cependant, quelques inconvénients ont étés signalés par ce même professeur. En effet, les manuels numériques ne seront pas présents à la rentrée 2012, ce qui ne règle pas le problème du poids des manuels scolaires. Il souligne aussi que si des problèmes de maintenance venaient à survenir, il ne pourrait y faire face. Aussi, si un professeur doit distribuer des fichiers à ces élèves pendant le cours, il sera obligé de faire circuler des clés USB, du fait de l’absence d’un réseau entre les élèves et le professeur. Enfin, toute interaction par internet ne peut pas être garantie puisque l’élève ne possède pas forcément une connexion internet.
-
-Un autre professeur remarque que le problème de la maintenance est tout à fait analogue aux problèmes que l’on rencontre actuellement tel que l’oubli de matériel. Il suggère trois scénarii. L’élève pourrait n’utiliser son ordinateur uniquement chez lui, dans le cas le professeur n’autoriserait pas l’usage de l’ordinateur durant son cours. Aussi, le professeur pourrait montrer aux élèves des démarches à effectuer sur l’ordinateur que l’élève devra refaire chez lui. Enfin, les élèves pourraient utiliser directement l’ordinateur pendant le cours avec les conseils de l’ordinateur.
-
-L'entretien avec un troisième professeur nous révèle que l'infrastructure réseau s'est faite petit à
- petit et qu'elle s'est développée de manière archaïque. C'est donc un problème notable, étant donné que d'ici trois ans, environ 1800 élèves du lycée seront suceptibles de se connecter au réseau. L'absence de plan global limite grandement les aménagements futurs pour supporter cette charge.
-</p>
-<h2>Les réponses des élèves</h2>
-<p>
-Nous avons interroger quelques élèves pour voir comment le projet était accueilli ou connu. Bien que les élèves du lycée soient malheureusement passé à côté de cette réforme, leurs avis sont tout de même intéressants.</p>
-		</div>
-		<footer>Un rédacteur </footer>
-	</article>
 	
+	<article>
+		<h1>Facebook is watching you™</h1>
+		<div colones='yes'>
+		<p>Lundi, 18h. Je rentre du lycée. Porte fermée, sac jeté sur le sol, un bonjour à la cantonade, et hop ! Plus personne. Non, non je n’ai pas disparu. C’est facile de me trouver à cette heure-là : devant l’ordi. Allez, vous avez beau dire, je suis sûre que vous le faîte vous aussi. En vérité, je fais partie des 82% de lycéens qui se connectent sur Facebook directement après les cours.
+
+Facebook. On a beau avoir des centaines d’amis, <em>c’est quand même lui le seul que l’on a tous en commun</em>. Mais quand on y réfléchit, quelle est notre motivation, nous qui nous sommes inscrits sur le plus grand réseau social au monde ?
+
+Premier argument : garder le contact avec des amis qu’on ne voit pas tous les jours. D’accord, ça se tient. On voit leurs actus, leurs photos, oh tiens ! Le nouveau petit copain. Mais honnêtement, combien d’entre vous leur parlent ? Que ceux qui l’on déjà fait se fassent connaître (façon de parler, ne levez pas un bras dans la cafet’, ce serait ridicule). On donne toujours cette excuse quand un anti-Facebook nous pose la question, mais en fait, c’est pas la réalité, et ça, tout le monde le sait.
+
+Deuxième argument : Facebook permet de rassembler beaucoup de gens. Validé. On a bien vu ce que ça a donné avec les blocus, et là, c’est pas négligeable.
+
+Troisième argument : <em>Facebook rapproche les gens et crée des liens</em>. Oui, enfin… Des liens temporaires dans ce cas-là. Qui parle encore à ses camarades de seconde ? (Les secondes de cette année ne sont pas concernés bien sûr, sinon c’est de la triche). C’est vrai que Facebook permet de fuir la solitude et de rester connectés avec ses « amis » 24h sur 24, mais enfin, quelle est l’utilité de savoir tout sur tout le monde ? Il y a des choses qui ne sont pas toujours bonnes à savoir.
+
+Bon, pour ceux qui ont noté le sous-titre (+1), explication. Bien sûr je suis certaine que vous le savez, mais on ne peut pas parler de Facebook sans parler de tout ce qui ne va pas, et croyez bien que j’en suis navrée. S’il n’y avait aucun problème, ça m’aurait fait moins de boulot pendant les vacances. Bien sûr, vous avez tous entendu parler des failles de sécurité de Facebook (je l’espère pour vous). Hé oui, la confidentialité, ça vous dit quelque chose ? 73% des utilisateurs de Facebook ne pensent partager leurs contenus personnels qu’avec des amis mais seulement 42% ont réglé leurs paramètres de confidentialité sur « amis uniquement ». Le problème, c’est que <strong>52%</strong> des utilisateurs publient des informations susceptibles de mettre en danger leur vie privée. Un sondage a montré que 40% des étudiants publient leur numéro de téléphone et 51% publient leur adresse sur leur profil. Inconscients vous avez dits ? Allez, je vous laisse digérer tous ces chiffres. Une dernière information cependant : tout le monde a accès à vos informations si vous ne modifiez pas vos paramètres. Et quand je dis tout le monde, c’est tout le monde. Même les applications idiotes, comme les anciens quiz à la mode au collège du genre « Quelle couleur es-tu ? » (Avec une faute généralement) ont accès à toutes nos infos personnelles. Vous serez étonnés de voir tous les tests bidons que vous avez bien pu faire. Moi par exemple, j’ai eu droit à « Quel Schtroumpf es-tu ? » (avec et sans la faute) et « Are YOU a muffin ? ». Oui, oui, on est bête quand on a 13 ans. Le problème ? Avec le temps, vous oubliez la réponse, et même le fait que vous l’ayez fait. Sauf que les applications ont encore accès à toutes vos informations.
+
+Résultat ? 250 applications avaient accès à mon profil. Croyez-moi, quand on les supprime une à une (pas le choix), on les sent passer.
+
+De plus, Facebook entraîne une dépendance. Oui sans rire. Quand on se connecte directement en rentrant du lycée, ou quand, en prenant une photo, on pense à l’instant au nombre de personnes qui vont « l’aimer », c’est fichu… Paix à nos âmes ! Autant vous prévenir aussi : les publicités sont visées et toute information que vous postez peut être vendue. Et oui, les photos de la fête de Laura samedi soir, dès dimanche matin, elles font partie du domaine public et peuvent se retrouver dans une pub pour Coca. Dur. Oh, maintenant qu’on parle de fête. Imaginez-vous dans trois ou quatre ans, quand vous postulerez pour un super poste. Je ne suis pas sûre que les photos de vous avec une tête pas très fraîche et une bouteille de bière/vodka/malibu à la main (rayez la mention inutile) fassent vraiment plaisir à votre ex-futur employeur. Idem pour les statuts qui expriment un peu trop vos avis politiques par exemple. <strong>La vérité, c’est que Facebook n’est pas notre ami</strong>. Ou en tout cas, il le devient à partir du moment où nous prenons les commandes. Après tout ça, dur à croire que (oui une dernière statistique) 35% des jeunes n’ont jamais réfléchit aux problèmes de sécurité posé par les applications Facebook, ce qui est énorme.
+
+Alors ce soir, en rentrant chez vous, quand vous vous connecterez, cliquez pour moi sur le bouton « Compte – Paramètres de confidentialité. » Et maintenant, vous pourrez commenter vos photos beaucoup plus tranquillement.</p>
+	</div>
+	<footer>M.D.</footer>
+	</article>
 </section>
