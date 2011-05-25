@@ -5,7 +5,7 @@ header{
 	font-size: 100px;
 	font-family: "Old London";
 	text-align: center;
-	background: url('Images/head.svg') center center no-repeat;
+	background: url('../Images/head.svg') center center no-repeat;
 }
 /*header img{
 	width: 80px;

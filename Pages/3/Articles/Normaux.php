@@ -1,57 +1,7 @@
-<section>
-	<aside>
-		<article>
-			<h1>Liberté Égalité Citoyenneté</h1>
-			<p>
-			Doit-on rappeler que la Démocratie et la République sont des régimes rares dans le monde, et que leur sécurité est un combat quotidien contre toutes les formes d’oppression qui existent ?
-
-			Comment peut-on alors s’offrir le luxe de négliger son rôle et ses responsabilités de citoyen Français alors qu’ils sont le fruit du sacrifice de nos aînés et que tant de peuples souffrent encore du totalitarisme ?
-
-			Ainsi, l’engagement citoyen est bien plus qu’un simple droit ou devoir, c’est un héritage que nous devons préserver au nom des libertés dont nous bénéficions.
-
-			Il est nécessaire d’agir face à l’impassibilité terrifiante de tant de lycéens qui demeurent insensibles aux multiples atteintes faites aux principes fondateurs de notre pays.
-			</p>
-			<footer>M.L.</footer>
-			<div role='clear'></div>
-		</article>
-		
-		<article>
-			<h1>Un magnifique sondage</h1>
-			<p>En quel média avez-vous le plus confiance ?</p>
-			<ul>
-				<li>La presse écrite</li>
-				<li>La télévision</li>
-				<li>La radio</li>
-				<li>Internet</li>
-				<li>Aucun, ils sont tous corompus</li>
-				<li>Tous, tout le monde il est beau, tout le monde il est gentil</li>
-			</ul>
-			Pour voter, rendez-vous sur le site du journal !
-			<div role='clear'></div>
-			<footer>M.L</footer>
-			<div role='clear'></div>
-		</article>
-		<article>
-			<h1>L'O.U.R.S.</h1>
-			<h2>Rédacteurs</h2>
-			<ul>
-				<li></li>
-			</ul>
-			<h2>Rédacteurs en chef</h2>
-			<ul>
-				<li></li>
-			</ul>
-			<h2>Responsable légal</h2>
-			<ul>
-				<li></li>
-			</ul>
-		</article>
-	</aside>
-	
-	<article>
-		<h1>Facebook is watching you™</h1>
-		<div colones='yes'>
-		<p>Lundi, 18h. Je rentre du lycée. Porte fermée, sac jeté sur le sol, un bonjour à la cantonade, et hop ! Plus personne. Non, non je n’ai pas disparu. C’est facile de me trouver à cette heure-là : devant l’ordi. Allez, vous avez beau dire, je suis sûre que vous le faîte vous aussi. En vérité, je fais partie des 82% de lycéens qui se connectent sur Facebook directement après les cours.
+<article>
+	<h1>Facebook is watching you™</h1>
+	<div colones='yes'>
+	<p>Lundi, 18h. Je rentre du lycée. Porte fermée, sac jeté sur le sol, un bonjour à la cantonade, et hop ! Plus personne. Non, non je n’ai pas disparu. C’est facile de me trouver à cette heure-là : devant l’ordi. Allez, vous avez beau dire, je suis sûre que vous le faîte vous aussi. En vérité, je fais partie des 82% de lycéens qui se connectent sur Facebook directement après les cours.
 
 Facebook. On a beau avoir des centaines d’amis, <em>c’est quand même lui le seul que l’on a tous en commun</em>. Mais quand on y réfléchit, quelle est notre motivation, nous qui nous sommes inscrits sur le plus grand réseau social au monde ?
 
@@ -68,7 +18,6 @@ Résultat ? 250 applications avaient accès à mon profil. Croyez-moi, quand on 
 De plus, Facebook entraîne une dépendance. Oui sans rire. Quand on se connecte directement en rentrant du lycée, ou quand, en prenant une photo, on pense à l’instant au nombre de personnes qui vont « l’aimer », c’est fichu… Paix à nos âmes ! Autant vous prévenir aussi : les publicités sont visées et toute information que vous postez peut être vendue. Et oui, les photos de la fête de Laura samedi soir, dès dimanche matin, elles font partie du domaine public et peuvent se retrouver dans une pub pour Coca. Dur. Oh, maintenant qu’on parle de fête. Imaginez-vous dans trois ou quatre ans, quand vous postulerez pour un super poste. Je ne suis pas sûre que les photos de vous avec une tête pas très fraîche et une bouteille de bière/vodka/malibu à la main (rayez la mention inutile) fassent vraiment plaisir à votre ex-futur employeur. Idem pour les statuts qui expriment un peu trop vos avis politiques par exemple. <strong>La vérité, c’est que Facebook n’est pas notre ami</strong>. Ou en tout cas, il le devient à partir du moment où nous prenons les commandes. Après tout ça, dur à croire que (oui une dernière statistique) 35% des jeunes n’ont jamais réfléchit aux problèmes de sécurité posé par les applications Facebook, ce qui est énorme.
 
 Alors ce soir, en rentrant chez vous, quand vous vous connecterez, cliquez pour moi sur le bouton « Compte – Paramètres de confidentialité. » Et maintenant, vous pourrez commenter vos photos beaucoup plus tranquillement.</p>
-	</div>
-	<footer>M.D.</footer>
-	</article>
-</section>
+</div>
+<footer>M.D.</footer>
+</article>
