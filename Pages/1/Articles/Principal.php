@@ -1,6 +1,6 @@
 <h1>Facebook is watching you !</h1>
 <figure> <!-- Image sur le côté droit -->
-	<img src='http://www.veilleur-strategique.eu/wp-content/uploads/2011/03/firefox-4.jpg' /> <!-- image -->
+	<img src='Images/facebook.png' /> <!-- image -->
 	<figcaption>Le big brother du web 2.0</figcaption> <!-- Légende -->
 </figure>
 <hgroup> <!-- Sous-titres accrocheurs/questions amorces --> 

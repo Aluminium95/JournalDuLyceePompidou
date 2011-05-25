@@ -7,7 +7,7 @@
 	<!-- Bannière info tirage ( css dans head_foot.css ) -->
 		<ul id='infoTirage'>
 			<li><?php echo(date("j.n.Y")); ?></li> <!-- Date -->
-			<li>N°1</li> <!-- Version ?-->
+			<li>N°1 ( distribution gratuite )</li> <!-- Version ?-->
 			<li>http://journalpompidou.free.fr</li> <!-- liens -->
 		</ul>
 	<!-- Article Principal -->
