@@ -24,4 +24,8 @@
 	<p>Rubrique lecture sur le nouveau roman de Musso : Appel de l'Ange </p>
 	<footer>S.D.</footer>
 </article>
-
+<article>
+	<h1>Un petit mot sur Le Georges</h2>
+	<p>Quelques petits éclaircissements qui ne sont sûrement pas nécessaires … </p>
+	<footer>Alu95</footer>
+</article>
