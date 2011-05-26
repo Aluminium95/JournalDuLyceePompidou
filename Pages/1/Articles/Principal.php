@@ -4,7 +4,7 @@
 	<figcaption>Le big brother du web 2.0 ( Alu95 )</figcaption> <!-- Légende -->
 </figure>
 <hgroup> <!-- Sous-titres accrocheurs/questions amorces --> 
-	<h2>Quels sont les réactions face à cette numérisation ?</h2>
-	<h2>Quels avantages scolaires peut-il y avoir ?</h2>
-	<h2>Quels sont les problèmes que l'on risque de rencontrer ?</h2>
+	<h2>82 % des lycéens se connectent à Facebook™ directement après les cours</h2>
+	<h2>73 % des gens pensent partager leur contenu avec leur proches uniquement mais seulement 42 % ont réglé les paramètres de confidentialité</h2>
+	<h2>52 % des utilisateurs publient des informations suceptibles de mettre en danger leur vie privée</h2>
 </hgroup>

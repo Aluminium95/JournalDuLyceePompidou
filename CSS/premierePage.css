@@ -27,7 +27,7 @@ article[role=Principal] figure img{
 article[role=Principal] h2:first-letter{
 	font-size: 20px;
 	padding-left: 30px;
-	background: url('Images/title.svg') no-repeat center left;
+	background: url('../Images/title.svg') no-repeat center left;
 }
 
 /* Introduction des articles sur la première page */
