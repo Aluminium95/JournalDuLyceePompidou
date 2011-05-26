@@ -8,7 +8,7 @@ Facebook. On a beau avoir des centaines d’amis, <em>c’est quand même lui le
 Premier argument : garder le contact avec des amis qu’on ne voit pas tous les jours. D’accord, ça se tient. On voit leurs actus, leurs photos, oh tiens ! Le nouveau petit copain. Mais honnêtement, combien d’entre vous leur parlent ? Que ceux qui l’on déjà fait se fassent connaître (façon de parler, ne levez pas un bras dans la cafet’, ce serait ridicule). On donne toujours cette excuse quand un anti-Facebook nous pose la question, mais en fait, c’est pas la réalité, et ça, tout le monde le sait.
 </p>
 <figure>
-	<img src='Images/facebook.svg' />
+	<img src='Images/facebook.png' />
 </figure>
 <p>
 Deuxième argument : Facebook permet de rassembler beaucoup de gens. Validé. On a bien vu ce que ça a donné avec les blocus, et là, c’est pas négligeable.
