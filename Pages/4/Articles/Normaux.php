@@ -27,16 +27,16 @@
 	<h1>Un petit mot sur le Georges</h1>
 	<div colones='yes'>
 	<p>
-		Comme vous avez pu le constater, Le Georges est un journal lycéen, fait par des lycéens, pour des lycéens. Ce qui veut dire que vous, seul ou avec des amis, pouvez proposer des articles ou faire des remarques sur le journal aux rédacteurs, afin de l'améliorer, pour votre plus grande distraction. Il ne faut pas non plus oublier que ce journal fait par des lycéens bénévoles, qui prennent sur leur temps libre afin de vous proposer ce support. Nous vous invitons donc à vous impliquer dans ce projet, pour que l'année prochaine, le lycée georges pompidou bénéficie d'un magnifique hebdomadaire !
+		Comme vous avez pu le constater, Le Georges est un journal lycéen, fait par des lycéens, pour des lycéens. Ce qui veut dire que vous, seul ou avec des amis, pouvez proposer des articles ou faire des remarques sur le journal aux rédacteurs, afin de l'améliorer, pour votre plus grande distraction. Il ne faut pas non plus oublier que ce journal fait par des lycéens bénévoles, qui prennent sur leur temps libre afin de vous proposer ce support. Nous vous invitons donc à vous impliquer dans ce projet, pour que l'année prochaine, le lycée Georges Pompidou bénéficie d'un magnifique hebdomadaire !
 	</p>
 	<figure style='width: 100px; float: left'>
 		<img src='Images/index.png'/>
 		<figcaption>Mise à l'index</figcaption>
 	</figure>
 	<p>
-Un autre petit mot, sur le site du journal cette fois. Étant donné que nous n'avons pas des moyens illimités en impression, il nous a semblé judicieux de mettre en place un site ( http://journalpompidou.free.fr ) sur lequel vous pourriez avoir accès à tous les articles et les commenter à tout moment ! C'est aussi sur ce site que se font les sondages ( pour des raisons pratiques que vous pouvez parfaitement comprendre, ramasser 500 coupons de vote et les trier pour ensuite faire des statistiques n'est pas … idéal ). Nous vous incitons vivement à visiter le-dit site web et nous faire part de vos impression !</p>
+Un autre petit mot, sur le site du journal cette fois. Étant donné que nous n'avons pas des moyens illimités en impression, il nous a semblé judicieux de mettre en place un site (http://journalpompidou.free.fr) sur lequel vous pourriez avoir accès à tous les articles et les commenter à tout moment ! C'est aussi sur ce site que se font les sondages (pour des raisons pratiques que vous pouvez parfaitement comprendre, ramasser 500 coupons de vote et les trier pour ensuite faire des statistiques n'est pas … idéal). Nous vous incitons vivement à visiter ledit site web et nous faire part de vos impressions ! </p>
 
-<p>Merci d'avoir lu cet article d'information, on se retrouve au prochain numéro ( sauf si vous me détestez profondément, et haïssez mon écriture archaïque et barbare ).
+<p>Merci d'avoir lu cet article d'information, on se retrouve au prochain numéro (sauf si vous me détestez profondément, et haïssez mon écriture archaïque et barbare).
 	</p>
 	</div>
 	<footer>Alu95</footer>
