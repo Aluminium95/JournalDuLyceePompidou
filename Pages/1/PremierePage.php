@@ -23,6 +23,6 @@
 		<?php include("Articles/Edito.php"); ?>
 	</article>
 	<footer role='footpage'> <!-- Footer du journal, pour mettre quelque chose si besoin -->
-		Remerciements pour cette édition : Curto Ludivine pour le dessin du Georges
+		Remerciements pour cette édition : Magriann pour le dessin du Georges
 	</footer>
 </section>
