@@ -6,11 +6,11 @@
 Facebook. On a beau avoir des centaines d’amis, <em>c’est quand même lui le seul que l’on a tous en commun</em>. Mais quand on y réfléchit, quelle est notre motivation, nous qui nous sommes inscrits sur le plus grand réseau social au monde ?
 
 Premier argument : garder le contact avec des amis qu’on ne voit pas tous les jours. D’accord, ça se tient. On voit leurs actus, leurs photos, oh tiens ! Le nouveau petit copain. Mais honnêtement, combien d’entre vous leur parlent ? Que ceux qui l’on déjà fait se fassent connaître (façon de parler, ne levez pas un bras dans la cafet’, ce serait ridicule). On donne toujours cette excuse quand un anti-Facebook nous pose la question, mais en fait, c’est pas la réalité, et ça, tout le monde le sait.
-
+</p>
 <figure>
 	<img src='Images/Sources/facebook.png' />
-<figure>
-
+</figure>
+<p>
 Deuxième argument : Facebook permet de rassembler beaucoup de gens. Validé. On a bien vu ce que ça a donné avec les blocus, et là, c’est pas négligeable.
 
 Troisième argument : <em>Facebook rapproche les gens et crée des liens</em>. Oui, enfin… Des liens temporaires dans ce cas-là. Qui parle encore à ses camarades de seconde ? (Les secondes de cette année ne sont pas concernés bien sûr, sinon c’est de la triche). C’est vrai que Facebook permet de fuir la solitude et de rester connectés avec ses « amis » 24h sur 24, mais enfin, quelle est l’utilité de savoir tout sur tout le monde ? Il y a des choses qui ne sont pas toujours bonnes à savoir.

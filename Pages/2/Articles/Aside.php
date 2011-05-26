@@ -22,3 +22,10 @@ Les surveillants vous mettent à l’évidence, ils concluent : « de toute faç
 	<h1>Wah un titre de mini article !</h1>
 	<p>Quel article venimeux et emporté ! On en lit pas souvent des comme ceux-là …</p>
 </article>
+<article>
+	<h1>Remerciements</h1>
+	<p>Que serait le journal s'il n'était pas imprimé ?
+	Pas grand chose sûrement, c'est pour cela que nous remercions 
+	le lycée Georges Pompidou et Mr. Bourgoin en particulier pour 
+	avoir permis à ce premier tirage d'avoir lieu.</p>
+</article>

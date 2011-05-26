@@ -41,6 +41,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3701" />
+    <inkscape:perspective
+       id="perspective10-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6618357"
-     inkscape:cx="125"
-     inkscape:cy="103.5"
+     inkscape:zoom="3.2118644"
+     inkscape:cx="124"
+     inkscape:cy="116"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -291,5 +305,35 @@
        id="rect2994"
        style="fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:1.01226842;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.0415"
        transform="matrix(-0.00781006,0.9999695,-0.99998158,-0.00606976,0,0)" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.18800403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.844673,981.68575 c 5.380477,-0.0449 10.760967,-0.0896 16.141427,-0.13461 2.70789,3.39283 5.41576,6.78566 8.12364,10.17849 -5.34564,6.79 -10.69129,13.58007 -16.03694,20.37017 -5.390402,-6.7004 -10.780804,-13.40104 -16.171204,-20.10155 2.647692,-3.4375 5.295384,-6.875 7.943077,-10.3125 z"
+       id="path2840" />
+    <path
+       id="path2861"
+       d="m 94.983181,982.43427 c 4.915399,-0.0414 9.830799,-0.0826 14.746199,-0.12415 2.4739,3.14306 4.94778,6.28611 7.42166,9.42915 -4.88343,6.28977 -9.76688,12.57963 -14.65031,18.86933 -4.924603,-6.2071 -9.849214,-12.41439 -14.773827,-18.62161 2.418759,-3.18425 4.837518,-6.36848 7.256278,-9.55272 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.17295147px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.28629494px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Old London;-inkscape-font-specification:Old London"
+       x="86.078407"
+       y="1003.8986"
+       id="text2856"
+       transform="matrix(1.0005329,-0.00607954,0.00708404,0.99942434,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2858"
+         x="86.078407"
+         y="1003.8986">G</tspan></text>
+    <text
+       transform="matrix(0.27236313,-0.96153267,0.96297218,0.27195598,0,0)"
+       id="text3656"
+       y="239.00822"
+       x="-1089.3423"
+       style="font-size:50.69704819px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+       xml:space="preserve"><tspan
+         y="239.00822"
+         x="-1089.3423"
+         id="tspan3658"
+         sodipodi:role="line">Bal du lycée</tspan></text>
   </g>
 </svg>

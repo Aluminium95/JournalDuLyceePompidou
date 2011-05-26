@@ -26,7 +26,7 @@
 	</ul>
 	Pour voter, rendez-vous sur le site du journal !
 	<div role='clear'></div>
-	<footer>M.L</footer>
+	<footer>M.L.</footer>
 	<div role='clear'></div>
 </article>
 <article>
