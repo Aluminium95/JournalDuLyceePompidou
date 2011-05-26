@@ -21,7 +21,7 @@
 </article>
 <article>
 	<h1>Il est comment … le nouveau Musso ?</h1>
-	<p>Rubrique lecture sur le nouveau roman de Musso : </p>
+	<p>Rubrique lecture sur le nouveau roman de Musso : Appel de l'Ange </p>
 	<footer>S.D.</footer>
 </article>
 
