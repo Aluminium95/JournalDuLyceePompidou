@@ -11,7 +11,7 @@
 	
 </style>
 <!-- code php -->
-<?
+<?php
 print " <br>\n";
 /*********         les variables                                  *************/
 // grille 'sudoku', caractères de "1" à "9", case $i,$j
@@ -221,7 +221,7 @@ if (strlen($loterie)!= 0){
 
 ?>
 
-<?
+<?php
 // affichage de la grille
 function aff()
 {
