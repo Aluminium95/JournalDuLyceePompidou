@@ -31,9 +31,11 @@
   ferme le portail et qu&rsquo;ils sonnent juste
   apr&egrave;s, je les laisse un quart
   d&rsquo;heure dehors pour qu&rsquo;ils soient
-  en retard&nbsp;&raquo;.</p> <p> Apr&egrave;s
+  en retard&nbsp;&raquo;.</p>
+  <p> Apr&egrave;s
   le slogan <u>Fumer tue</u>, Fumer vous met en
-  retard&nbsp;!</p> <p> Pour finir, les
+  retard&nbsp;!</p>
+  <p> Pour finir, les
   surveillants, eux, sont plut&ocirc;t POUR que le
   portail reste ferm&eacute; car
   &laquo;&nbsp;&ccedil;a emp&ecirc;che de
@@ -42,7 +44,8 @@
   surveillante&nbsp;:&nbsp;&laquo;&nbsp;Je fais
   mon boulot&nbsp;&raquo;.
   L&rsquo;&eacute;ternelle
-  r&eacute;ponse&hellip;</p> <p> Les surveillants
+  r&eacute;ponse&hellip;</p>
+  <p> Les surveillants
   vous mettent &agrave; l&rsquo;&eacute;vidence,
   ils concluent&nbsp;: &laquo;&nbsp;de toute
 fa&ccedil;on, c&rsquo;est le proviseur qui

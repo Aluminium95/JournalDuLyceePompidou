@@ -23,5 +23,5 @@ Deuxième argument : Facebook permet de rassembler beaucoup de gens. Validé. On
 
 <p>Alors ce soir, en rentrant chez vous, quand vous vous connecterez, cliquez pour moi sur le bouton « Compte – Paramètres de confidentialité. » Et maintenant, vous pourrez commenter vos photos beaucoup plus tranquillement.</p>
 </div>
-<footer>M.D.</footer>
+<footer>S.D.</footer>
 </article>
