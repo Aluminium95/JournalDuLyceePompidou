@@ -17,7 +17,7 @@
   probl&egrave;me aux yeux des lyc&eacute;ens,
   ce qui n&rsquo;affecte pas du tout le
   personnel.</p> <p> L&#39;agent
-  d&#39;accueil&nbsp;tous les matins &agrave;
+  d&#39;accueil&nbsp; ouvre tous les matins &agrave;
   7h45, et un peu plus t&ocirc;t quand il pleut.
   Quand le lyc&eacute;e est ferm&eacute;, les
   &eacute;l&egrave;ves restent &agrave;

@@ -39,7 +39,7 @@
 		<li>La télévision</li>
 		<li>La radio</li>
 		<li>Internet</li>
-		<li>Aucun, ils sont tous corompus</li>
+		<li>Aucun, ils sont tous corrompus</li>
 		<li>Tous, tout le monde il est beau, tout le monde il est gentil</li>
 	</ul>
 	Pour voter, rendez-vous sur le site du journal !
