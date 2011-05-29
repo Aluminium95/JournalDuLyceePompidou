@@ -1,14 +1,29 @@
 <article>
 	<h1>Liberté Égalité Citoyenneté</h1>
-	<p>
-	Doit-on rappeler que la Démocratie et la République sont des régimes rares dans le monde, et que leur sécurité est un combat quotidien contre toutes les formes d’oppression qui existent ?
+	  <p> Doit-on rappeler que la D&eacute;mocratie
+  et la R&eacute;publique sont des r&eacute;gimes
+  rares dans le monde, et que leur
+  s&eacute;curit&eacute; est un combat quotidien
+  contre toutes les formes d&rsquo;oppression qui
+  existent&nbsp;?</p> <p> Comment peut-on alors
+  s&rsquo;offrir le luxe de n&eacute;gliger son
+  r&ocirc;le et ses responsabilit&eacute;s de
+  citoyen Fran&ccedil;ais alors qu&rsquo;ils sont le
+  fruit du sacrifice de nos a&icirc;n&eacute;s et que
+  tant de peuples souffrent encore du
+ totalitarisme&nbsp;?</p> <p> Ainsi,                 
+  l&rsquo;engagement citoyen est bien plus
+  qu&rsquo;un simple droit ou devoir, c&rsquo;est
+  un h&eacute;ritage que nous devons
+  pr&eacute;server&nbsp;au nom&nbsp;des
+  libert&eacute;s dont nous
+  b&eacute;n&eacute;ficions.</p> <p> Il est
+  n&eacute;cessaire d&rsquo;agir face &agrave;
+  l&rsquo;impassibilit&eacute; terrifiante de tant de
+  jeunnes qui demeurent insensibles aux multiples
+  atteintes faites aux principes fondateurs de
+  certains pays.</p>
 
-	Comment peut-on alors s’offrir le luxe de négliger son rôle et ses responsabilités de citoyen Français alors qu’ils sont le fruit du sacrifice de nos aînés et que tant de peuples souffrent encore du totalitarisme ?
-
-	Ainsi, l’engagement citoyen est bien plus qu’un simple droit ou devoir, c’est un héritage que nous devons préserver au nom des libertés dont nous bénéficions.
-
-	Il est nécessaire d’agir face à l’impassibilité terrifiante de tant de lycéens qui demeurent insensibles aux multiples atteintes faites aux principes fondateurs de notre pays.
-	</p>
 	<footer>M.L.</footer>
 	<div role='clear'></div>
 </article>

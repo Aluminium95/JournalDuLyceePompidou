@@ -5,7 +5,7 @@
 	<!-- Résumé de l'article -->
 </article>
 <article>
-	<h1>Avis aux révolutionnaires !</h1>
+	<h1>Avis aux révolutionnaires en herbe !</h1>
 	<p>Les lycéens de l’établissement se révoltent : « Le portail du lycée est toujours fermé ! »</p>
 	<footer>M.B.</footer>
 </article>
