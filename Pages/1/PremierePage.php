@@ -23,6 +23,6 @@
 		<?php include("Articles/Edito.php"); ?>
 	</article>
 	<footer role='footpage'> <!-- Footer du journal, pour mettre quelque chose si besoin -->
-		Remerciements pour cette édition : Magriann pour le dessin du Georges
+		Ne pas jeter sur la voie publique alors que vous pourriez faire du feu avec !
 	</footer>
 </section>

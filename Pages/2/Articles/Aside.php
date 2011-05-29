@@ -64,4 +64,10 @@ d&eacute;cide&nbsp;&raquo;.</p>
 	Pas grand chose sûrement, c'est pour cela que nous remercions 
 	le lycée Georges Pompidou et Mr. Bourgoin en particulier pour 
 	avoir permis à ce premier tirage d'avoir lieu.</p>
+	<p>
+	Une deuxième question est : que serait le journal sans son 
+	magnifique logo, emblème de sa personnalité dynamique et expressive.
+	C'est pour cela que nous remercions Magniann pour avoir dessiné ( sur papier )
+	le premier Georges. 
+	</p>
 </article>
