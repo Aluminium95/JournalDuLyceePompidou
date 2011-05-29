@@ -1,6 +1,7 @@
 <article>
 	<h1>Facebook is watching you™</h1>
 	<div colones='yes'>
+	<h2><em>Facebook et nous, petits lycéens naïfs que nous sommes</em></h2>
 	<p>Lundi, 18h. Je rentre du lycée. Porte fermée, sac jeté sur le sol, un bonjour à la cantonade, et hop ! Plus personne. Non, non je n’ai pas disparu. C’est facile de me trouver à cette heure-là : devant l’ordi. Allez, vous avez beau dire, je suis sûre que vous le faîte vous aussi. En vérité, je fais partie des 82% de lycéens qui se connectent sur Facebook directement après les cours.</p>
 
 	<p>Facebook. On a beau avoir des centaines d’amis, <em>c’est quand même lui le seul que l’on a tous en commun</em>. Mais quand on y réfléchit, quelle est notre motivation, nous qui nous sommes inscrits sur le plus grand réseau social au monde ?</p>
