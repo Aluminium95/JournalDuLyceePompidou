@@ -1,20 +1,53 @@
 <article> <!-- Un article -->
-	<h1>Le lycée … une prison ?</h1> <!-- Titre de l'article -->
-	<p>
+	<h1>Avis aux révolutionnaires en herbe !</h1> <!-- Titre de l'article -->
+	  <p> Les lyc&eacute;ens de
+  l&rsquo;&eacute;tablissement sont
+  m&eacute;content : &laquo;&nbsp;Le portail du
+  lyc&eacute;e est toujours
+  ferm&eacute;&nbsp;!&nbsp;&raquo;</p> <p>
+  Certains lyc&eacute;ens ne comprennent pas
+  pourquoi Pompidou est le seul lyc&eacute;e qui
+  ferme &laquo;&nbsp;trop
+  souvent&nbsp;&raquo;, d&rsquo;autres disent
+  que le portail n&rsquo;ouvre pas assez t&ocirc;t,
+  ce qui fait manquer le tramway. Les retardataires
+  pr&eacute;tendent que &laquo;&nbsp;cela les
+  retarde&nbsp;&raquo;,. En conclusion, le portail
+  du lyc&eacute;e est un &eacute;vident
+  probl&egrave;me aux yeux des lyc&eacute;ens,
+  ce qui n&rsquo;affecte pas du tout le
+  personnel.</p> <p> L&#39;agent
+  d&#39;accueil&nbsp;tous les matins &agrave;
+  7h45, et un peu plus t&ocirc;t quand il pleut.
+  Quand le lyc&eacute;e est ferm&eacute;, les
+  &eacute;l&egrave;ves restent &agrave;
+  l&rsquo;int&eacute;rieur ou peuvent demander
+   &agrave; leurs CPE l&rsquo;autorisation pour       
+  sortir (sauf BTS qui peuvent entrer et sortir
+  librement). Pour lui
+  :&nbsp;&laquo;&nbsp;C&rsquo;est pas moi qui
+  d&eacute;cide, mais parfois quand je vois les
+  jeunes qui finissent leurs cigarettes alors que je
+  ferme le portail et qu&rsquo;ils sonnent juste
+  apr&egrave;s, je les laisse un quart
+  d&rsquo;heure dehors pour qu&rsquo;ils soient
+  en retard&nbsp;&raquo;.</p> <p> Apr&egrave;s
+  le slogan <u>Fumer tue</u>, Fumer vous met en
+  retard&nbsp;!</p> <p> Pour finir, les
+  surveillants, eux, sont plut&ocirc;t POUR que le
+  portail reste ferm&eacute; car
+  &laquo;&nbsp;&ccedil;a emp&ecirc;che de
+  s&eacute;cher les cours&nbsp;&raquo;.
+  L&rsquo;opinion d&rsquo;une
+  surveillante&nbsp;:&nbsp;&laquo;&nbsp;Je fais
+  mon boulot&nbsp;&raquo;.
+  L&rsquo;&eacute;ternelle
+  r&eacute;ponse&hellip;</p> <p> Les surveillants
+  vous mettent &agrave; l&rsquo;&eacute;vidence,
+  ils concluent&nbsp;: &laquo;&nbsp;de toute
+fa&ccedil;on, c&rsquo;est le proviseur qui
+d&eacute;cide&nbsp;&raquo;.</p>
 
-Je suis allée demander aux lycéens de Joffre, un des lycées les plus réputés de Montpellier et ils ont affirmés que leur portail est ouvert à chaque intercours leur laissant la possibilité de sortir s’ils le désirent, même pour une heure.
-
-Dans notre lycée, le Proviseur Adjoint instaure la nouvelle règle : lorsque nous avons une heure de libre, nous devons rester dans l’établissement.
-
-Certains lycéens ne comprennent pas pourquoi Pompidou est le seul lycée qui ferme « trop souvent », d’autres disent que le portail n’ouvre pas assez tôt, ce qui fait manquer le tramway. Les retardataires prétendent que « cela les retarde », et le reste des élèves comparent le lycée à un collège. En conclusion, le portail du lycée est un évident problème aux yeux des lycéens, ce qui n’affecte pas du tout le personnel.
-
-Jean-Marie Coste, qui assure la surveillance du portail se présente tous les matins à 7h30, ouvre le lycée à 7h45, et un peu plus tôt quand il pleut. Il dit que quand le lycée est fermé, les élèves restent à l’intérieur ou peuvent demander à leurs CPE l’autorisation pour sortir (sauf BTS qui peuvent entrer et sortir librement). Son opinion : « C’est pas moi qui décide, mais parfois quand je vois les jeunes qui finissent leurs cigarettes alors que je ferme le portail et qu’ils sonnent juste après, je les laisse un quart d’heure dehors pour qu’ils soient en retard ».
-
-Après le slogan Fumer tue, Fumer vous met en retard !
-
-Pour finir, les surveillants, eux, sont plutôt POUR que le portail reste fermé car « ça empêche de sécher les cours ». L’opinion d’une surveillante : « Je fais mon boulot ». L’éternelle réponse…
-
-Les surveillants vous mettent à l’évidence, ils concluent : « de toute façon, c’est le proviseur qui décide ».</p>
 	<footer>M.B.</footer> <!-- signature -->
 	<div role='clear'></div>
 </article>
