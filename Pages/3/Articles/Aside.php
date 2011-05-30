@@ -23,7 +23,7 @@
   <p> Il est
   n&eacute;cessaire d&rsquo;agir face &agrave;
   l&rsquo;impassibilit&eacute; terrifiante de tant de
-  jeunnes qui demeurent insensibles aux multiples
+  jeunes qui demeurent insensibles aux multiples
   atteintes faites aux principes fondateurs de
   certains pays.</p>
 
@@ -66,7 +66,7 @@
 		<li>Le Priol Robin</li>
 		<li>Dézier Séverine</li>
 	</ul>
-	<h2>Responsable légal</h2>
+	<h2>Responsable légal / directeur de publication</h2>
 	<ul>
 		<li>Le Priol Robin</li>
 	</ul>

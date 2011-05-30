@@ -77,3 +77,15 @@ strong{
 	font-size: 1.3em;
 	background: none;
 }
+mark{
+	font-size: 20px;
+	color: gray;
+	display: block;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	margin: 5px;
+	padding: 5px;
+	text-indent: 0px;
+	background: none;
+	font-weight: bold;
+}

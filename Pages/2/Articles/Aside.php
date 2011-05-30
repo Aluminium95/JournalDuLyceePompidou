@@ -2,7 +2,7 @@
 	<h1>Avis aux révolutionnaires en herbe !</h1> <!-- Titre de l'article -->
 	  <p> Les lyc&eacute;ens de
   l&rsquo;&eacute;tablissement sont
-  m&eacute;content : &laquo;&nbsp;Le portail du
+  m&eacute;contents : &laquo;&nbsp;Le portail du
   lyc&eacute;e est toujours
   ferm&eacute;&nbsp;!&nbsp;&raquo;</p> <p>
   Certains lyc&eacute;ens ne comprennent pas
@@ -12,7 +12,7 @@
   que le portail n&rsquo;ouvre pas assez t&ocirc;t,
   ce qui fait manquer le tramway. Les retardataires
   pr&eacute;tendent que &laquo;&nbsp;cela les
-  retarde&nbsp;&raquo;,. En conclusion, le portail
+  retarde&nbsp;&raquo;. En conclusion, le portail
   du lyc&eacute;e est un &eacute;vident
   probl&egrave;me aux yeux des lyc&eacute;ens,
   ce qui n&rsquo;affecte pas du tout le
@@ -41,8 +41,8 @@
   &laquo;&nbsp;&ccedil;a emp&ecirc;che de
   s&eacute;cher les cours&nbsp;&raquo;.
   L&rsquo;opinion d&rsquo;une
-  surveillante&nbsp;:&nbsp;&laquo;&nbsp;Je fais
-  mon boulot&nbsp;&raquo;.
+  surveillante&nbsp;:&nbsp;<mark>&laquo;&nbsp;Je fais
+  mon boulot&nbsp;&raquo;.</mark>
   L&rsquo;&eacute;ternelle
   r&eacute;ponse&hellip;</p>
   <p> Les surveillants
@@ -67,7 +67,11 @@ d&eacute;cide&nbsp;&raquo;.</p>
 	<p>
 	Une deuxième question est : que serait le journal sans son 
 	magnifique logo, emblème de sa personnalité dynamique et expressive.
+<<<<<<< HEAD
+	C'est pour cela que nous remercions Magniann pour avoir dessiné (sur papier)
+=======
 	C'est pour cela que nous remercions Magniann pour avoir dessiné ( sur papier )
+>>>>>>> e66b0a52bfa8ed2a6994e4752111f5654f5f8601
 	le premier Georges. 
 	</p>
 </article>
